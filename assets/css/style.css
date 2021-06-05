@@ -10,12 +10,18 @@ body {
 }
 /*menu*/
 #menu {
-    float:right;
+    list-style-type: none;
+}
+#menu li {
+    float: right;
+    font-size: 150%;
+    letter-spacing: 2px;
+    margin-right: 35px;
 }
 /* headings and logo */
 #hero-text {
     text-align: center;
-    margin-top: 15%;
+    padding-top: 20%;
     font-family: font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
     color: #2c2c2c;
