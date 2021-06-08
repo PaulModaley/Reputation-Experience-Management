@@ -32,9 +32,10 @@ body {
 }
 .heading-text {
     color:#004f5d; 
-    font-size: 270%;
+    text-align: center;
+    font-size: 240%;
     margin-top: 50px; 
-    margin-left:10px;
+    
 }
 .wrapper{
     width: 100%;
