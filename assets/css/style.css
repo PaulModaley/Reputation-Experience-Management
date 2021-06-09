@@ -35,14 +35,24 @@ body {
 .heading-text {
     color:#efefef; 
     font-size: 170%;
-    margin-top: 30px; 
+    margin-top: 50px; 
     margin-left: 20px;
 }
 .intro-text {
     color:#efefef;
-    font-size: 90%;
-    margin-top: 40px;
+    font-size: 80%;
+    width: 200px;
+    margin-top: 20px;
     margin-left: 20px;
+    margin-right: 3px;
+    background-color: #004f5d;
+    position: relative;
+    width: 75%;
+    height: auto;
+    opacity: 0.7;
+    top: 20px;
+    text-align: left;
+    display: inline-flex;
 }
 .wrapper{
     width: 100%;
@@ -51,9 +61,15 @@ body {
     display: flex;
     border-top: #d7d7d7 solid;
     border-width: 1px;
-
     object-fit: contain;
     background-repeat: no-repeat;
+  }
+  #mobile-only {
+    visibility: visible;
+    color:#efefef;
+    font-size: 90%;
+    width: 200px;
+    margin-top:50px;
   }
 }
 
@@ -100,6 +116,8 @@ body {
 .intro-text {
     margin-top: 50px;
     margin-left: 40px;
+    margin-top:50px;
+  
 }
 .wrapper{
     width: 100%;
