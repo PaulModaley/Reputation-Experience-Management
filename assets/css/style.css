@@ -1,5 +1,5 @@
 /* Mobile first */
-@media only screen and (max-width: 490px) {
+@media only screen and (max-width: 841px) {
 @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
 * {
     margin: 0;
@@ -34,14 +34,14 @@ body {
 }
 .heading-text {
     color:#efefef; 
-    font-size: 180%;
-    margin-top: 50px; 
+    font-size: 170%;
+    margin-top: 30px; 
     margin-left: 20px;
 }
 .intro-text {
     color:#efefef;
-    font-size: 80%;
-    margin-top: 50px;
+    font-size: 90%;
+    margin-top: 40px;
     margin-left: 20px;
 }
 .wrapper{
@@ -58,7 +58,7 @@ body {
 }
 
 /* Desktop view */
-@media only screen and (min-width: 490px) {
+@media only screen and (min-width: 841px) {
 @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
 * {
     margin: 0;
