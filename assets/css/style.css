@@ -1,148 +1,163 @@
 /* Mobile first */
-@media only screen and (max-width: 841px) {
-@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-body {
-    font-family:'Montserrat', Sans-serif;
-    font-weight: 300px;
-}
-/*menu*/
-#menu {
-    color:#004f5d;
-    font-family: 'Montserrat', Sans-serif;
-    list-style-type: none;
-    background-color: white;
-    height:80px;  
-}
-#menu li {
+@media only screen and (max-width: 1186px) {
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
+    * {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+    body {
+        font-family:'Montserrat', Sans-serif;
+        font-weight: 300px;
+    }
+    /*menu*/
+    #menu {
+        color:#004f5d;
+        font-family: 'Montserrat', Sans-serif;
+        list-style-type: none;
+        background-color: white;
+        height:80px;  
+    }
+    #menu li {
+        
+        float: right;
+        font-size: 100%;
+        letter-spacing: 2px;
+        margin-top: 5px;
+        margin-right: 35px;
+        padding-top: 20px;
+    }
+    /* headings and logo */
     
-    float: right;
-    font-size: 100%;
-    letter-spacing: 2px;
-    margin-top: 5px;
-    margin-right: 35px;
-    padding-top: 20px;
-}
-/* headings and logo */
-
-#logo{
-    position: relative;
-}
-.heading-text {
-    color:#efefef; 
-    font-size: 170%;
-    margin-top: 50px; 
-    margin-left: 20px;
-}
-.intro-text {
-    color:#efefef;
-    font-size: 80%;
-    width: 200px;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 3px;
-    background-color: #004f5d;
-    position: relative;
-    width: 75%;
-    height: auto;
-    opacity: 0.7;
-    top: 20px;
-    text-align: left;
-    display: inline-flex;
-}
-.wrapper{
-    width: 100%;
-    height: 600px;
-    background-image: url(../images/rxm-hero.png);
-    display: flex;
-    border-top: #d7d7d7 solid;
-    border-width: 1px;
-    object-fit: contain;
-    background-repeat: no-repeat;
-  }
-  #mobile-only {
-    visibility: visible;
-    color:#efefef;
-    font-size: 90%;
-    width: 200px;
-    margin-top:50px;
-  }
-}
-
-/* Desktop view */
-@media only screen and (min-width: 841px) {
-@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-body {
-    font-family:'Montserrat', Sans-serif;
-    font-weight: 300px;
-}
-/*menu*/
-#menu {
-    color:#004f5d;
-    font-family: 'Montserrat', Sans-serif;
-    list-style-type: none;
-    background-color: white;
-    height:80px;  
-}
-#menu li {
+    #logo{
+        position: relative;
+    }
+    .heading-text {
+        color:#efefef; 
+        font-size: 170%;
+        margin-top: 50px; 
+        margin-left: 20px;
+    }
+    .intro-text {
+        color:#efefef;
+        font-size: 80%;
+        width: 250px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 3px;
+        background-color: #004f5d;
+        position: relative;
+        width: 75%;
+        height: auto;
+        opacity: 0.7;
+        top: 10px;
+        text-align: left;
+        display: inline-flex;
+    }
+    .wrapper{
+        width: 100%;
+        height: 600px;
+        background-image: url(../images/rxm-hero.png);
+        display: flex;
+        border-top: #d7d7d7 solid;
+        border-width: 1px;
+        object-fit: fill;
+        background-repeat: no-repeat;
+      }
+      #mobile-only {
+        visibility: visible;
+        color:#efefef;
+        font-size: 90%;
+        width: 200px;
+        margin-top:50px;
+      }
+      #enables-brands {
+          color: #004f5d;
+          font-size: large;
+          background-color: #fff;
+        width: 100%;
+      }
+    }
     
-    float: right;
-    font-size: 100%;
-    letter-spacing: 2px;
-    margin-top: 5px;
-    margin-right: 35px;
-    padding-top: 20px;
-}
-/* headings and logo */
-
-#logo{
-    position: relative;
-}
-.heading-text {
-    color:#004f5d; 
-    font-size: 240%;
-    margin-top: 50px; 
-    margin-left: 40px;
-}
-.intro-text {
-    margin-top: 50px;
-    margin-left: 40px;
-    margin-top:50px;
-  
-}
-.wrapper{
-    width: 100%;
-    height: 500px;
-    background: #fff;
-    display: flex;
-    border-top: #d7d7d7 solid;
-    border-width: 1px;
-  }
-  
-  .div1{
-    width: 50% ;
-    height: 120%;
-    background: #fff;
-  }
-  
-  .div2{
-    width: 50%;
-    height: 120%;
-    background-image: url(../images/rxm-hero.png);
-    background-color: #fff;
-    object-fit: fill;
-    background-repeat: no-repeat;
-    border-bottom: #fff;
-    border-width: 5px;
-    clip-path: polygon(20% 0, 1600px 0, 1600px 100%, 0 100%);
-  }
-}
+    /* Desktop view */
+    @media only screen and (min-width: 1186px) {
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
+    * {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+    body {
+        font-family:'Montserrat', Sans-serif;
+        font-weight: 300px;
+    }
+    /*menu*/
+    #menu {
+        color:#004f5d;
+        font-family: 'Montserrat', Sans-serif;
+        list-style-type: none;
+        background-color: white;
+        height:80px;  
+    }
+    #menu li {
+        
+        float: right;
+        font-size: 100%;
+        letter-spacing: 2px;
+        margin-top: 5px;
+        margin-right: 35px;
+        padding-top: 20px;
+    }
+    /* headings and logo */
+    
+    #logo{
+        position: relative;
+    }
+    .heading-text {
+        color:#004f5d; 
+        font-size: 240%;
+        margin-top: 50px; 
+        margin-left: 40px;
+    }
+    .intro-text {
+        margin-top: 50px;
+        margin-left: 40px;
+        margin-top:50px;
+        font-size: 120%;
+      
+    }
+    .wrapper{
+        width: 100%;
+        height: 500px;
+        background: #fff;
+        display: flex;
+        border-top: #d7d7d7 solid;
+        border-width: 1px;
+      }
+      
+      .div1{
+        width: 50% ;
+        height: 120%;
+        background: #fff;
+      }
+      
+      .div2{
+        width: 50%;
+        height: 120%;
+        background-image: url(../images/rxm-hero.png);
+        background-color: #fff;
+        object-fit: fill;
+        background-repeat: no-repeat;
+        border-bottom: #fff;
+        border-width: 5px;
+        clip-path: polygon(20% 0, 1600px 0, 1600px 100%, 0 100%);
+      }
+      #enables-brands {
+        color: #004f5d;
+        font-size: large;
+        position: relative;
+        margin-top: 100px;
+        margin-left: 40px;
+        background-color: #d7d7d7;
+        width: 100%;
+    }
