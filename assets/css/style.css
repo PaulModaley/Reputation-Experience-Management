@@ -111,7 +111,9 @@
         
     }
     #get-found-wrapper {
-        color:#efefef;
+        background-image: url(../images/Google\ 3\ Pack.png);
+        background-position: center;
+        background-repeat: no-repeat;
         width: 100%;
         font-size: medium;
         height: 600px;
