@@ -29,6 +29,14 @@
         margin-top: 5px;
 
     }
+    .flex-container {
+        flex-direction: column;
+    
+        order: 1;
+    
+       order: 2;
+       padding: 0 0 !important;
+      }
     /* headings and logo */
     
     #logo{
@@ -203,21 +211,20 @@
         float: right;
         font-size: 100%;
         letter-spacing: 2px;
-        margin-top: 5px;
+        margin-top: 23px;
         margin-right: 80px;
         padding-top: 20px;
     }
     /* headings and logo */
     
     #logo{
-        position: relative;
+        position: absolute;
         width: 100%;
         height: 100px;
         background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-7f76e69/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
         background-position: left;
         background-repeat: no-repeat;
         margin-left: 50px;
-        margin-top: 25px;
     }
     .heading-text {
         color:#004f5d; 
