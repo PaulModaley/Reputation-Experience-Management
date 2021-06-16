@@ -170,7 +170,14 @@
     .family {width: 81%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px;}
     .references {width: 64%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px;}
 
-
+    /* Get better */
+    #get-better {
+        text-align: center;
+        width: 100%;
+        padding-top: 20px;
+        text-align: center;
+        font-size: x-large;
+    }
     
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
