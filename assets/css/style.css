@@ -189,7 +189,32 @@
         border: #fff; 
         border-style: solid;
     }
-      
+    #platform {
+        background-color: #004f5d;
+        padding-top: 20px;
+        height: 640px;
+    }
+    #platform > h3 {
+        color: #efefef;
+        text-align: center;
+        font-size: x-large;
+        padding-bottom: 10px;
+    }
+    #platform > p {
+        color: #fff;
+        text-align: center;
+    }
+    button {
+        text-align: center;
+        height: 100px;
+        background-color: #eaff59;
+        color: #004f5d;
+        font-size: medium;
+        font-weight: 100;
+    }
+    script {
+        margin-left: 150px;
+    }
     
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
