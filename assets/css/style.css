@@ -20,26 +20,25 @@
         font-family: 'Montserrat', Sans-serif;
         list-style-type: none;
         background-color: white;
-        height:80px;  
+        height:78px;  
     }
     #menu li {
-        
-        float: right;
-        font-size: 100%;
-        letter-spacing: 2px;
+        text-align: center;
+        font-size: 70%;
+        letter-spacing: 1px;
         margin-top: 5px;
-        margin-right: 35px;
-        padding-top: 20px;
+
     }
     /* headings and logo */
     
     #logo{
         position: relative;
-        width: 220px;
-        height: 40px;
-        background-image: url("https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-c653536/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png");
-        margin-left: 50px;
-        margin-top: 25px;
+        width: 100%;
+        height: 60px;
+        background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-7f76e69/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-top: 5px;
     }
 
     .heading-text {
@@ -85,7 +84,7 @@
         color:#efefef;
         font-size: 90%;
         width: 200px;
-        margin-top:50px;
+        margin-top:10px;
       }
       #enables-brands {
           color: #004f5d;
@@ -205,20 +204,20 @@
         font-size: 100%;
         letter-spacing: 2px;
         margin-top: 5px;
-        margin-right: 35px;
+        margin-right: 80px;
         padding-top: 20px;
     }
     /* headings and logo */
     
     #logo{
         position: relative;
-        width: 220px;
-        height: 40px;
-        background-image: url("https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-c653536/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png");
+        width: 100%;
+        height: 100px;
+        background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-7f76e69/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
+        background-position: left;
+        background-repeat: no-repeat;
         margin-left: 50px;
-        margin-top: 20px;
-        display: inline-block;
-        float:left;
+        margin-top: 25px;
     }
     .heading-text {
         color:#004f5d; 
