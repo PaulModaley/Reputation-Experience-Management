@@ -15,19 +15,19 @@
         position: relative;
     }
     /*menu*/
+    
     #menu {
         color:#004f5d;
         font-family: 'Montserrat', Sans-serif;
         list-style-type: none;
         background-color: white;
-        height:78px;  
+        height: 78px; 
+
     }
     #menu li {
         text-align: center;
-        font-size: 70%;
-        letter-spacing: 1px;
+        font-size: 80%;
         margin-top: 5px;
-
     }
     
     /* headings and logo */
@@ -250,17 +250,20 @@
         font-family: 'Montserrat', Sans-serif;
         list-style-type: none;
         background-color: white;
-        height:80px;  
+        height:80px; 
     }
     #menu li {
         color: #004f5d;
+        background-color: #fff;
         position: relative;
         float: right;
-        font-size: 100%;
-        letter-spacing: 2px;
-        margin-top: 23px;
-        margin-right: 80px;
-        padding-top: 20px;
+        font-size: 90%;
+        letter-spacing: 1px;
+        margin-top: 43px;
+        margin-right: 90px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        
     }
     /* headings and logo */
     
@@ -326,4 +329,137 @@
         padding-bottom: 20px;
         letter-spacing: 2px;
     }
-   
+   /* Get Found  */
+#get-found {
+    color: #eaff59;
+    font-size: x-large;
+    width: 100%;
+    padding-top: 20px;
+    text-align: left;
+    height: 690px;
+    background-color: #004f5d;
+    padding-bottom: 10px;
+}
+#get-found > p,h3 {
+    margin-left: 40px;
+}
+#get-found-wrapper {
+    background-image: url(../images/Google\ 3\ Pack.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    width: 100%;
+    font-size: large;  
+    height: 500px;
+    background-color: #004f5d;
+}
+#local-search-text {
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    background-color: #004f5d;
+}
+/* Get chosen  */
+#get-chosen {
+    color: #004f5d;
+    font-size: x-large;
+    width: 100%;
+    margin-top: 60px;
+    padding-top: 20px;
+    text-align: center;
+    height: 620px;
+    background-color: #efefef;  
+}
+#get-chosen-wrapper {
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+}
+* {box-sizing: border-box}
+#graph > p {
+    font-size: small;
+    text-align: left;
+    color:#004f5d;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.container {
+  width: 100%;
+  background-color: #efefef;
+}
+
+.percentages {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #d7d7d7;
+}
+
+.ratings {width: 76%; background-color: #004f5d; padding-right: 6px; color: #eaff59;}
+.family {width: 81%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px;}
+.references {width: 64%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px;}
+
+/* Get better */
+#get-better {
+    background-color:#d7d7d7;
+    text-align: center;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    font-size: x-large;
+}
+#optimal > p {
+    background-color: #004f5d; 
+    width: 100%;
+    height: 200px;
+    color: #fff; 
+    margin-top: 10px; 
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border: #fff; 
+    border-style: solid;
+}
+#platform {
+    background-color: #004f5d;
+    padding-top: 20px;
+    height: 350px;
+}
+#platform > h3 {
+    color: #efefef;
+    text-align: center;
+    font-size: x-large;
+    padding-bottom: 10px;
+}
+#platform > p {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+#cta {
+    position: relative;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+.button {
+    text-align: center;
+    width: 120px;
+    background-color: #eaff59;
+    color: #004f5d;
+    font-size: medium;
+    font-weight: bold;
+    padding-left: 10px;  
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #efefef;
+    color: #004f5d;
+}
