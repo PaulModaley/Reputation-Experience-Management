@@ -15,19 +15,19 @@
         position: relative;
     }
     /*menu*/
-    
     #menu {
         color:#004f5d;
         font-family: 'Montserrat', Sans-serif;
         list-style-type: none;
         background-color: white;
-        height: 78px; 
-
+        height:78px;  
     }
     #menu li {
         text-align: center;
-        font-size: 80%;
+        font-size: 70%;
+        letter-spacing: 1px;
         margin-top: 5px;
+
     }
     
     /* headings and logo */
@@ -250,20 +250,17 @@
         font-family: 'Montserrat', Sans-serif;
         list-style-type: none;
         background-color: white;
-        height:80px; 
+        height:80px;  
     }
     #menu li {
         color: #004f5d;
-        background-color: #fff;
         position: relative;
         float: right;
-        font-size: 90%;
-        letter-spacing: 1px;
-        margin-top: 43px;
-        margin-right: 90px;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        
+        font-size: 100%;
+        letter-spacing: 2px;
+        margin-top: 23px;
+        margin-right: 80px;
+        padding-top: 20px;
     }
     /* headings and logo */
     
@@ -329,34 +326,32 @@
         padding-bottom: 20px;
         letter-spacing: 2px;
     }
-   /* Get Found  */
+    /* Get Found  */
+}
 #get-found {
     color: #eaff59;
     font-size: x-large;
     width: 100%;
     padding-top: 20px;
-    text-align: left;
-    height: 690px;
+    text-align: center;
+    height: 390px;
     background-color: #004f5d;
-    padding-bottom: 10px;
-}
-#get-found > p,h3 {
-    margin-left: 40px;
+    
 }
 #get-found-wrapper {
     background-image: url(../images/Google\ 3\ Pack.png);
-    background-position: left;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 40px;
     width: 100%;
-    font-size: large;  
-    height: 500px;
+    font-size: medium;
+    height: 540px;
     background-color: #004f5d;
+    
 }
 #local-search-text {
     width: 100%;
     text-align: center;
-    height: 250px;
+    height: 500px;
     background-color: #004f5d;
 }
 /* Get chosen  */
@@ -364,7 +359,7 @@
     color: #004f5d;
     font-size: x-large;
     width: 100%;
-    margin-top: 160px;
+    margin-top: 450px;
     padding-top: 20px;
     text-align: center;
     height: 620px;
@@ -374,7 +369,7 @@
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    height: 600px;
+    height: 200px;
 }
 * {box-sizing: border-box}
 #graph > p {
@@ -419,8 +414,7 @@
     margin-top: 10px; 
     padding-top: 10px;
     padding-bottom: 10px; 
-    border: #fff; 
-    border-style: solid;
+
 }
 #platform {
     background-color: #004f5d;
@@ -463,3 +457,4 @@
     background-color: #efefef;
     color: #004f5d;
 }
+   
