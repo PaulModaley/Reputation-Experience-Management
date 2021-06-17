@@ -192,7 +192,7 @@
     #platform {
         background-color: #004f5d;
         padding-top: 20px;
-        height: 640px;
+        height: 320px;
     }
     #platform > h3 {
         color: #efefef;
@@ -204,17 +204,26 @@
         color: #fff;
         text-align: center;
     }
-    button {
+    #cta {
+        position: relative;
+        padding: 10px;
+        margin: auto;
         text-align: center;
-        height: 100px;
+    }
+    .button {
+        text-align: center;
+        width: 120px;
         background-color: #eaff59;
         color: #004f5d;
         font-size: medium;
-        font-weight: 100;
+        font-weight: bold;
+        padding-left: 10px;  
+        padding-right: 10px;
+        text-decoration: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
-    script {
-        margin-left: 150px;
-    }
+    
     
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
