@@ -356,7 +356,7 @@
 #local-search-text {
     width: 100%;
     text-align: center;
-    height: 100px;
+    height: 250px;
     background-color: #004f5d;
 }
 /* Get chosen  */
@@ -364,7 +364,7 @@
     color: #004f5d;
     font-size: x-large;
     width: 100%;
-    margin-top: 60px;
+    margin-top: 160px;
     padding-top: 20px;
     text-align: center;
     height: 620px;
