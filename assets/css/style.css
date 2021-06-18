@@ -655,4 +655,12 @@
     background-color: #efefef;
     color: #004f5d;
 }
+footer {
+    background-color: #d7d7d7;
+    color: #004f5d;
+    width: 100%;
+    margin-top: 468px;
+    height: 100px;
+    padding-top: 20px;
+}
    
