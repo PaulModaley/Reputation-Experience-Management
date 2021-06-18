@@ -200,10 +200,11 @@
         border: #fff; 
         border-style: solid;
     }
+    /*Platform and Demo */
     #platform {
         background-color: #004f5d;
         padding-top: 20px;
-        height: 350px;
+        height: 400px;
     }
     #platform > h3 {
         color: #efefef;
@@ -213,14 +214,38 @@
     }
     #platform > p {
         color: #fff;
+        font-size: large;
         text-align: center;
-        padding-bottom: 40px;
+        padding-bottom: 80px;
+        background-color: #004f5d;
+        height: 50px;
+    }
+    #platformimage {
+        background-image: url(../images/Asset\ 36.png);
+        background-color: #004f5d;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 550px;
+        width: auto;
+    }
+    @media only screen and (max-width: 696px) {
+        #platformimage {
+            background-image: url(../images/Asset\ 36.png);
+            background-color: #004f5d;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 550px;
+            width: auto;
+            display: none;
+        }
     }
     #cta {
         position: relative;
         padding: 10px;
         margin: auto;
         text-align: center;
+        background-color: #004f5d;
+        padding-bottom: 50px;
     }
     .button {
         text-align: center;
