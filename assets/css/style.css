@@ -117,7 +117,6 @@
         width: 100%;
         padding-top: 20px;
         text-align: center;
-        height: 690px;
         background-color: #004f5d;
         padding-bottom: 80px;
     }
@@ -127,23 +126,21 @@
         background-repeat: no-repeat;
         width: 100%;
         font-size: medium;
-        height: 500px;
         background-color: #004f5d;
         
     }
     #local-search-text {
         width: 100%;
         text-align: center;
-        height: 500px;
         background-color: #004f5d;
     }
    
     /* Get chosen  */
     #get-chosen {
+        position: relative;
         color: #004f5d;
         font-size: x-large;
         width: 100%;
-        margin-top: 650px;
         padding-top: 20px;
         text-align: center;
         height: 820px;
@@ -369,7 +366,6 @@
     width: 100%;
     padding-top: 20px;
     text-align: center;
-    height: 390px;
     background-color: #004f5d;
 
 }
@@ -380,7 +376,6 @@
         width: 100%;
         padding-top: 20px;
         text-align: center;
-        height: 890px;
         background-color: #004f5d;
     
     }
@@ -392,7 +387,7 @@
         width: 100%;
         padding-top: 20px;
         text-align: center;
-        height: 490px;
+        
         background-color: #004f5d;
     }
 }
@@ -423,10 +418,10 @@
 }
 /* Get chosen  */
 #get-chosen {
+    position: relative;
     color: #004f5d;
     font-size: x-large;
     width: 100%;
-    margin-top: 450px;
     padding-top: 20px;
     text-align: center;
     height: 620px;
@@ -441,7 +436,6 @@
         color: #004f5d;
         font-size: x-large;
         width: 100%;
-        margin-top: 450px;
         padding-top: 20px;
         text-align: center;
         height: 750px;
@@ -453,7 +447,6 @@
         color: #004f5d;
         font-size: x-large;
         width: 100%;
-        margin-top: 480px;
         padding-top: 20px;
         text-align: center;
         height: 790px;
@@ -465,7 +458,6 @@
         color: #004f5d;
         font-size: x-large;
         width: 100%;
-        margin-top: 480px;
         padding-top: 20px;
         text-align: center;
         height: 700px;
@@ -476,8 +468,7 @@
     #get-chosen {
         color: #004f5d;
         font-size: x-large;
-        width: 100%;
-        margin-top: 480px;
+        width: 100%
         padding-top: 20px;
         text-align: center;
         height: 755px;
@@ -489,8 +480,6 @@
         color: #004f5d;
         font-size: x-large;
         width: 100%;
-        margin-top: 480px;
-        padding-top: 20px;
         text-align: center;
         height: 790px;
         background-color: #efefef; 
