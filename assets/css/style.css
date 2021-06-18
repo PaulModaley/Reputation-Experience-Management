@@ -258,26 +258,13 @@
         background-color: #efefef;
         color: #004f5d;
     }
-    footer {
+    #footer {
         background-color: #d7d7d7;
         color: #004f5d;
         width: 100%;
-        height: 70px;
+        position:relative;
     }
     
-    footer > p {
-        text-align: center;
-        padding-top: 30px;
-        font-weight: bold;
-    }
-    @media only screen and (max-width: 320px) {
-        footer > p {
-            text-align: center;
-            padding-top: 10px;
-            font-weight: bold;
-        }
-
-    }
     
 
     /* Desktop view */
@@ -420,6 +407,7 @@
     
 }
 #local-search-text {
+    position: relative;
     width: 100%;
     text-align: center;
     height: 500px;
@@ -443,6 +431,9 @@
     text-align: center;
     height: 620px;
     background-color: #efefef;  
+}
+.get-chosen {
+    position: relative;
 }
 
 @media only screen and (max-width: 411px) {
@@ -630,7 +621,8 @@
     background-color: #efefef;
     color: #004f5d;
 }
-footer {
+#footer {
+    position:relative;
     background-color: #d7d7d7;
     color: #004f5d;
     width: 100%;
