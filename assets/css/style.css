@@ -137,6 +137,7 @@
         height: 500px;
         background-color: #004f5d;
     }
+   
     /* Get chosen  */
     #get-chosen {
         color: #004f5d;
@@ -204,7 +205,6 @@
     #platform {
         background-color: #004f5d;
         padding-top: 20px;
-        height: 400px;
     }
     #platform > h3 {
         color: #efefef;
@@ -218,7 +218,6 @@
         text-align: center;
         padding-bottom: 80px;
         background-color: #004f5d;
-        height: 50px;
     }
    
 
@@ -578,7 +577,6 @@
     #platform {
         background-color: #004f5d;
         padding-top: 20px;
-        height: 200px;
     } 
 }
 #platform > h3 {
