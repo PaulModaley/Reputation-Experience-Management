@@ -266,7 +266,17 @@
         background-color: #efefef;
         color: #004f5d;
     }
-    
+    footer {
+        background-color: #d7d7d7;
+        color: #004f5d;
+        width: 100%;
+        margin-top: 468px;
+        height: 70px;
+    }
+    footer > p {
+        text-align: center;
+        padding-top: 10px;
+    }
     
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
