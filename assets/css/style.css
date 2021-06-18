@@ -220,21 +220,8 @@
         background-color: #004f5d;
         height: 50px;
     }
-    @media only screen and (max-width: 696px) {
-    .last {
-        margin-top: 100px;
-    }
-}
-@media only screen and (max-width: 522px) {
-    .last {
-        padding-top: 20px;
-    }
-}
-@media only screen and (max-width: 320px) {
-    .last {
-        padding-top: 200px;
-    }
-}
+   
+
     #cta {
         position: relative;
         padding: 10px;
@@ -243,7 +230,7 @@
         background-color: #004f5d;
         padding-bottom: 50px;
     }
-    @media only screen and (min-width: 320px) {
+    @media only screen and (max-width: 320px) {
         #cta {
             position: relative;
             padding: 20px;
@@ -276,17 +263,7 @@
         background-color: #d7d7d7;
         color: #004f5d;
         width: 100%;
-        margin-top: 468px;
         height: 70px;
-    }
-    @media only screen and (min-width: 320px) {
-        footer {
-            background-color: #d7d7d7;
-            color: #004f5d;
-            width: 100%;
-            height: 70px;
-            margin-top: 0px;
-        }
     }
     
     footer > p {
@@ -429,7 +406,7 @@
         width: 100%;
         padding-top: 20px;
         text-align: center;
-        height: 790px;
+        height: 490px;
         background-color: #004f5d;
     }
 }
@@ -601,7 +578,7 @@
     #platform {
         background-color: #004f5d;
         padding-top: 20px;
-        height: 700px;
+        height: 200px;
     } 
 }
 #platform > h3 {
@@ -659,7 +636,6 @@ footer {
     background-color: #d7d7d7;
     color: #004f5d;
     width: 100%;
-    margin-top: 468px;
     height: 100px;
     padding-top: 20px;
 }
