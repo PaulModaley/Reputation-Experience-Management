@@ -258,10 +258,32 @@
         color: #004f5d;
     }
    #footer {
-       position: relative;
+    position: relative;
       background-color: #efefef;
-      height: 100px;
+      height: 350px;
    }
+   #footer > p {
+       text-align: center;
+       padding-top: 40px;
+       font-weight: bold;
+       color: #004f5d;
+   }
+   .social-networks {
+    text-align: center;
+    }
+
+.social-networks > li {
+    display: inline;
+    }
+   .social-networks i {
+    font-size: 120%;
+    color: #3a3a3a;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    }
+   
+   
 
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
