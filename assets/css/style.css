@@ -8,11 +8,13 @@
     }
     html, body {
         overflow-x: hidden;
+        min-height: 100vh;
       }
     body {
         font-family:'Montserrat', Sans-serif;
         font-weight: 300px;
         position: relative;
+        min-height: 100vh;
     }
     /*menu*/
     #menu {
@@ -255,14 +257,11 @@
         background-color: #efefef;
         color: #004f5d;
     }
-    #footer {
-        background-color: #d7d7d7;
-        color: #004f5d;
-        width: 100%;
-        position:relative;
-    }
-    
-    
+   #footer {
+       position: relative;
+      background-color: #efefef;
+      height: 100px;
+   }
 
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
@@ -549,12 +548,14 @@
 #platform {
     background-color: #004f5d;
     padding-top: 20px;
-    height: 450px;
+    
+    position: relative;
 }
 @media only screen and (max-width: 320px) {
     #platform {
         background-color: #004f5d;
         padding-top: 20px;
+        position: relative;
     } 
 }
 #platform > h3 {
@@ -578,7 +579,7 @@
             background-color: #004f5d;
             background-position: center;
             background-repeat: no-repeat;
-            height: 550px;
+            position: relative;
             width: auto;
             margin-top: 60px;
         }
@@ -609,11 +610,8 @@
     color: #004f5d;
 }
 #footer {
-    position:relative;
-    background-color: #d7d7d7;
-    color: #004f5d;
-    width: 100%;
-    height: 100px;
-    padding-top: 20px;
+position: relative;
+   background-color: #efefef;
+   height: 100px;
 }
    
