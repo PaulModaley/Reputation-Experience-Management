@@ -277,7 +277,7 @@
     display: inline;
     }
    .social-networks i {
-    font-size: 120%;
+    font-size: 180%;
     color: #004f5d;
     padding-top: 1%;
     padding-left: 2%;
@@ -409,7 +409,6 @@
         width: 100%;
         padding-top: 20px;
         text-align: center;
-        
         background-color: #004f5d;
     }
 }
@@ -604,7 +603,8 @@
             background-repeat: no-repeat;
             position: relative;
             width: auto;
-            margin-top: 60px;
+            margin-top: 10px;
+            height: 600px;
         }
     }
 #cta {
