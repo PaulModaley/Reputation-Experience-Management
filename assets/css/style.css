@@ -270,6 +270,7 @@
    }
    .social-networks {
     text-align: center;
+    padding-top: 1%;
     }
 
 .social-networks > li {
@@ -277,7 +278,7 @@
     }
    .social-networks i {
     font-size: 120%;
-    color: #3a3a3a;
+    color: #004f5d;
     padding-top: 1%;
     padding-left: 2%;
     padding-right: 2%;
