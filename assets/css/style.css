@@ -300,9 +300,9 @@
         color: #004f5d;
     }
    #footer {
-    position: relative;
+        position: relative;
       background-color: #efefef;
-      height: 350px;
+      height: 100px;
    }
    #footer > p {
        text-align: center;
@@ -312,7 +312,7 @@
    }
    .social-networks {
     text-align: center;
-    padding-top: 1%;
+    padding-top: 20px;
     }
 
 .social-networks > li {
@@ -392,11 +392,11 @@
     .heading-text {
         color:#004f5d; 
         font-size: 240%;
-        margin-top: 90px; 
+        margin-top: 20px; 
         margin-left: 40px;
     }
     .intro-text {
-        margin-top: 50px;
+        margin-top: 20px;
         margin-left: 40px;
         margin-top:50px;
         font-size: 120%;
