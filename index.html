@@ -16,7 +16,16 @@
     <header>
         <div id="logo"></div>
         <a name="top"></a>
-        <nav>
+        <div class="topnav" id="myTopnav">
+            <a href="#getfound">Get Found</a>
+            <a href="#getchosen">Get Chosen</a>
+            <a href="#getbetter">Get Better</a>
+            <a href="#demo">Demo</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+        <!--<nav>
             <ul id="menu">
                 <li>
                     <a href="#demo" style="text-decoration:none;">Request a Demo</a>
@@ -191,5 +200,15 @@
     </footer>
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
+    <script>
+    /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+        function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+            x.className += " responsive";
+          } else {
+            x.className = "topnav";
+          }
+        }</script>
 </body>
 </html>
