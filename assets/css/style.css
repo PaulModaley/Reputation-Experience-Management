@@ -36,8 +36,8 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #efefef;
-    color: #004f5d;
+    background-color: pink;
+    
   }
   
   /* Add an active class to highlight the current page */
@@ -654,9 +654,6 @@
     padding-bottom: 40px;
     padding-top: 10px;
 }
-
-
-
     #platformvideo {
         position: relative;
         overflow: hidden;
