@@ -652,28 +652,35 @@
     color: #fff;
     text-align: center;
     padding-bottom: 40px;
+    padding-top: 10px;
 }
-@media only screen and (max-width: 667px) {
-    #platformimage {
-        display: none;
-    }
-}
-    #platformimage {
-            background-image: url(../images/Asset\ 36.png);
-            background-color: #004f5d;
-            background-position: center;
-            background-repeat: no-repeat;
-            position: relative;
-            width: auto;
-            margin-top: 10px;
-            height: 600px;
+
+
+
+    #platformvideo {
+        position: relative;
+        overflow: hidden;
+        padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+        height: 100%;
         }
-    }
+     .responsive {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        padding-left: 100px;
+        padding-right: 100px;
+        }
 #cta {
     position: relative;
     padding: 10px;
     margin: auto;
     text-align: center;
+    padding-bottom: 20px;
 }
 .button {
     text-align: center;
@@ -699,4 +706,4 @@ position: relative;
    background-color: #efefef;
    height: 100px;
 }
-   
+}
