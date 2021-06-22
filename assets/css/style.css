@@ -166,7 +166,6 @@
         background-color: #004f5d;
     }
     #get-found-wrapper {
-        background-image: url(../images/Google\ 3\ Pack.png);
         background-position: center;
         background-repeat: no-repeat;
         width: 100%;
@@ -476,14 +475,29 @@
     }
 }
 #get-found-wrapper {
-    background-image: url(../images/Google\ 3\ Pack.png);
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
     font-size: medium;
     height: 540px;
     background-color: #004f5d;
-    
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    width: 100%;
+    height: 100%;
+    }
+ .responsive {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+    }
 }
 #local-search-text {
     position: relative;
