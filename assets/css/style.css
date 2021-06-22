@@ -441,6 +441,7 @@
         padding-top: 20px;
         padding-bottom: 20px;
         letter-spacing: 2px;
+        font-size: 30px;
     }
     /* Get Found  */
 }
@@ -631,7 +632,7 @@
         width: 100%;
         padding-top: 20px;
         text-align: center;
-        font-size: x-large;
+        font-size: 40px;
         margin: 0px;
     }  
 }
@@ -658,9 +659,9 @@
     } 
 }
 #platform > h3 {
-    color: #efefef;
+    color: #eaff59;
     text-align: center;
-    font-size: x-large;
+    font-size: 40px;
     padding-bottom: 10px;
 }
 #platform > p {
