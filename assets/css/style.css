@@ -83,8 +83,18 @@
         background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-7f76e69/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
         background-position: center;
         background-repeat: no-repeat;
-        margin-top: 5px;
+        margin: auto;
     }
+    @media screen and (max-width: 414px) {
+       #logo { position: relative;
+        width: 100%;
+        height: 100px;
+        background-image: url(../images/rep\ symbol.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        margin: auto;
+    }
+}
 
     .heading-text {
         color:#efefef; 
