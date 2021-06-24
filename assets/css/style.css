@@ -602,16 +602,6 @@
     font-size: x-large;
     position: relative;
 }
-/*@media only screen and (max-width: 455px) {
-    #get-better {
-        background-color:#d7d7d7;
-        text-align: center;
-        width: 100%;
-        padding-top: 20px;
-        font-size: 40px;
-        margin: 0px;
-    }  
-}*/
 #optimal > p {
     background-color: #004f5d; 
     width: 100%;
