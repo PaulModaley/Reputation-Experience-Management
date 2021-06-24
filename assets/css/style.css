@@ -362,6 +362,7 @@
         width: 100%;
         z-index: 9;
         background-color: white;
+        opacity: 0.96;
     }
     /* Add a background color to the top navigation */
 .topnav {
@@ -383,7 +384,7 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #efefef;
+    background-color: #eaff59;
     color: #004f5d;
   }
   
@@ -392,6 +393,11 @@
     background-color: #eaff59;
     color: #004f5d;
   }
+  /* visited link */
+.topnav a:visited {
+    background-color: #eaff59;
+  }
+  
   /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
     display: none;
