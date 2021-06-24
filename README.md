@@ -6,20 +6,20 @@ Welcome to my first project which is a business website outlining the concept of
 
 This microsite explains the concept of RXM - a merging of Online Reputation Management (ORM) and Customer Experience (CX) business practices that enable businesses to 'get found, get chosen, get better' and drive tangible business outcomes.
 
-A live version of the website can be found [here. 
-](https://paulmodaley.github.io/Reputation-Experience-Management/)
+A live version of the website can be found here. 
+
 ## [Table of Contents](#1-ux)
 
-- 1. UX
+- 1. [UX](##1.UX)
 
   - ​	1.1. Strategy
     - Project Goals
       - User Goals
-      - User Expectations
+      - User Expectation
   - 1.2 Structure
   - 1.3 Skeleton
   - 1.4 Surface
-  
+
 - 2. Features
 
 - 3. Technologies Used
@@ -97,7 +97,7 @@ The colour schemes used are consistent with Reputation's 2020 branding guideline
 
 **Single page design:**
 
-- Navigation bar will be placed at the top of the screen to enable easy access for the user. It collapses to a hamburger-style menu on smaller screens and it employs a hover effect to enhance the user experience.
+- Navigation bar will be placed at the top of the screen to enable easy access for the user. It collapses to a hamburger-style menu on smaller screens and it employs a hover effect to enhance the user experience. As a sticky navigation bar, it will remain at the top of the screen as the user scrolls.
 - The company logo will also feature at the top of the page.
 - In the footer, users may access links to the company's main website as well as its numerous social media pages.
 
@@ -109,7 +109,7 @@ The single page design is comprised of several distinct sections. Some of these 
 
 This first section includes introductory text position to the right of a hero image situated in an angled div to add visual appeal to the page. This section is separated from the remained of the page by a div featuring the text, 'RXM Enables Brands To...' 
 
-**<u>Get Found</u>**(*)
+<u>Get Found (*)</u>
 
 In the 'Get Found' section, users will be able to read about the importance of improving visibility online and how to make themselves more attractive to potential customers. 
 
@@ -117,19 +117,19 @@ There will be a video in this section that users can watch entitled, 'Introducti
 
 A 'back to the top' link will enable the user to return to the top navigation menu.
 
-**<u>Get Chosen</u>(*)**
+<u>Get Chosen (*)</u>
 
 Distinguished from the previous section by its light grey background colour, 'Get Chosen' explains to users how customers choose businesses online.
 
 A bar graph illustrates influences on the customer purchase decision. Such data provided in a visual way is appealing to Reputation customers.
 
-**<u>Get Better</u>(*)**
+<u>Get Better (*)</u>
 
 A darker grey background distinguishes this section from 'Get Chosen'. Here, the user can read about how customer feedback can enable businesses to enhance the customer experience. 
 
 Also, the '3Cs for the Optimal Customer Experience' will feature toward the bottom of this section in 3 darker coloured boxes which enhance the visual appeal of the page.
 
-**<u>The Power of an RXM Platform</u>**(*)
+<u>The Power of an RXM Platform (*)</u>
 
 In this section, users may view a video explaining the capabilities of the the Reputation platform. At the bottom of the section, there is a brightly coloured button where users may click to open a demo request form. 
 
@@ -179,6 +179,7 @@ All sections of the page were tested thoroughly for mobile and web responsivity.
   - On larger screens, the navigation displays on the right hand side as 4 distinct labels - *Get found, Get Chosen, Get Betters, Request a Demo*. A hover effect and a changing cursor adds interactivity.
   - On smaller screens, the navigation menu collapses into a hamburger style menu. When clicked, it produces a drop down menu showing the labels which navigate to each section. A hover effect and a changing cursor is employed to add visual appeal and to enhance the user experience.
   - The navigation bar directs users to the beginning of the distinct sections.
+  - The navigation bar is 'sticky' meaning that it it stays visible at the top of the screen even as the user scrolls. This is to enable easy navigation of the page.
   - Users may return to the top of the page via a link reading 'back to top'. This features makes it easy for the user to navigate the page by eliminating the need for scrolling.
   - The navigation works as expected on both mobile and web.
 - Page sections
