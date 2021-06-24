@@ -6,8 +6,8 @@ Welcome to my first project which is a business website outlining the concept of
 
 This microsite explains the concept of RXM - a merging of Online Reputation Management (ORM) and Customer Experience (CX) business practices that enable businesses to 'get found, get chosen, get better' and drive tangible business outcomes.
 
-A live version of the website can be found here. 
-
+A live version of the website can be found [here. 
+](https://paulmodaley.github.io/Reputation-Experience-Management/)
 ## [Table of Contents](#1-ux)
 
 - 1. UX
