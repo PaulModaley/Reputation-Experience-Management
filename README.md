@@ -28,7 +28,7 @@ A live version of the website can be found here.
 - [9. Credits](#credits)
 
 
-
+<a name="ux"></a>
 ## 1.UX
 
 [Back to top](#table-of-contents)
@@ -38,7 +38,7 @@ The reason for this website creation is to provide a more concise version of Rep
 A microsite format was selected for the revised RXM guide because of the potential SEO benefits of microsites to the company's main website. 
 
 Furthermore, the marketing department at Reputation recognises the preference of our audience towards web based assets with longer, more contained pages as opposed to multi-page sites. These audience preferences have informed the design and development of this website. 
-
+<a name="strategy"></a>
 ### 1.1 Strategy
 
 [Back to top](#table-of-contents)
@@ -72,7 +72,7 @@ The content must:
 - Be easily navigable.
 - Be responsive on mobile, desktop and tablet devices.
 - Enable the user to visit Reputation's main website and social media channels.
-
+<a name="structure"></a>
 #### Structure
 
 The site will feature distinct sections on a single page. Users may navigate between the sections via the main navigation situated at the top of the page (right hand side in desktop mode). Users may return to the top of the page via the 'back to top' link found at the bottom of each section.
@@ -81,7 +81,7 @@ The site will feature distinct sections on a single page. Users may navigate bet
 - Navigation bar changes to a 'hamburger' style menu (top centre of screen) on smaller screens
 - Footer at the bottom of the page links to Reputation's website and social media pages.
 - All elements will be comply with Reputation's branding, including colours, font size and typography.
-
+<a name="skeleton"></a>
 #### Skeleton
 
 I generated designs for the website using wireframes in Balsamiq. 
@@ -89,11 +89,11 @@ I generated designs for the website using wireframes in Balsamiq.
 **Wire Frames**
 
 ![](https://share.balsamiq.com/c/sibaUJp6DERMeyUCwRAKru.png)
-
+<a name="surface"></a>
 #### Surface
 
 The colour schemes used are consistent with Reputation's 2020 branding guidelines. 
-
+<a name="features"></a>
 ## 2. Features
 
 [Back to top](#table-of-contents)
@@ -139,7 +139,7 @@ In this section, users may view a video explaining the capabilities of the the R
 **Features Left to Implement**
 
 Future additions to the website will include an embedded form to replace the demo button. This feature was left out of the current design due to the need to find an effective way to embed lead forms from [Hubspot](https://www.hubspot.com/) into my website's code. 
-
+<a name="technologies-used"></a>
 ### 3. Technologies Used
 
 [Back to top](#table-of-contents)
@@ -157,7 +157,7 @@ Technologies employed in the creation of the website are as follows:
 - [Gitpod](https://gitpod.io) (code line interface)
 - [Typora](https://typora.io/) (for creating this readme file)
 - [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
-
+<a name="testing"></a>
 ### 4. Testing
 
 [Back to top](#table-of-contents)
@@ -201,7 +201,7 @@ All sections of the page were tested thoroughly for mobile and web responsivity.
 - Button
   - The button opens a form in a new tab when clicked.
   - It functions correctly on mobile and web.
-
+<a name="development-cycle"></a>
 ## 5. Development Cycle
 
 [Back to top](#table-of-contents)
