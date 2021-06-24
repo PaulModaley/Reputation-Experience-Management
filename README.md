@@ -1,59 +1,204 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# What is Reputation Experience Management?
 
-Welcome PaulModaley,
+## Introduction
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Welcome to my first project which is a business website outlining the concept of Reputation Experience Management (RXM) as unveiled by my employer, [Reputation](https://reputation.com/) (formerly reputation.com), at the end of 2020.
 
-## Gitpod Reminders
+This microsite explains the concept of RXM - a merging of Online Reputation Management (ORM) and Customer Experience (CX) business practices that enable businesses to 'get found, get chosen, get better' and drive tangible business outcomes.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+A live version of the website can be found here. 
 
-`python3 -m http.server`
+## [Table of Contents](#1-ux)
 
-A blue button should appear to click: _Make Public_,
+- 1. UX
 
-Another blue button should appear to click: _Open Browser_.
+  - ​	1.1. Strategy
+    - Project Goals
+      - User Goals
+      - User Expectations
+  - 1.2 Structure
+  - 1.3 Skeleton
+  - 1.4 Surface
+  
+- 2. Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- 3. Technologies Used
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## 1.UX
 
-To log into the Heroku toolbelt CLI:
+[Back to top](#table-of-contents)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The reason for this website creation is to provide a more concise version of Reputation's 'RXM Guide: What is Reputation Experience Management?' - a document that currently exists in PDF format. 
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+A microsite format was selected for the revised RXM guide because of the potential SEO benefits of microsites to the company's main website. 
 
-## Updates Since The Instructional Video
+Furthermore, the marketing department at Reputation recognises the preference of our audience towards web based assets with longer, more contained pages as opposed to multi-page sites. These audience preferences have informed the design and development of this website. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### 1.1 Strategy
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+[Back to top](#table-of-contents)
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+#### Project Goals
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+The goal of the website is to educate marketing and CX professionals about the RXM concept and to drive conversions in the form of a demo request. It will also serve as a useful point of reference for Reputation's sales team who can signpost prospective clients to the microsite. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+#### User Goals:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+First time visitor goals:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- To gain insight into the concept of RXM
+- To easily navigate through the site
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Returning visitor goals:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- To clarify understanding of RXM
+- Access multimedia such as videos to reinforce concepts
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Frequent user goals:
 
----
+- To access Reputation's main website or social media channels
 
-Happy coding!
+#### User Expectations:
+
+The content must:
+
+- Offer an overview of RXM as a concept ('What is RXM?').
+- Give an overview of how companies can get found and chosen online and how they can use data to improve .
+- Be easily navigable.
+- Be responsive on mobile, desktop and tablet devices.
+- Enable the user to visit Reputation's main website and social media channels.
+
+#### Structure
+
+The site will feature distinct sections on a single page. Users may navigate between the sections via the main navigation situated at the top of the page (right hand side in desktop mode). Users may return to the top of the page via the 'back to top' link found at the bottom of each section.
+
+- Responsive on all devices sizes.
+- Navigation bar changes to a 'hamburger' style menu (top centre of screen) on smaller screens
+- Footer at the bottom of the page links to Reputation's website and social media pages.
+- All elements will be comply with Reputation's branding, including colours, font size and typography.
+
+#### Skeleton
+
+I generated designs for the website using wireframes in Balsamiq. 
+
+**Wire Frames**
+
+![](https://share.balsamiq.com/c/sibaUJp6DERMeyUCwRAKru.png)
+
+#### Surface
+
+The colour schemes used are consistent with Reputation's 2020 branding guidelines. 
+
+## 2. Features
+
+[Back to top](#table-of-contents)
+
+**Single page design:**
+
+- Navigation bar will be placed at the top of the screen to enable easy access for the user. It collapses to a hamburger-style menu on smaller screens and it employs a hover effect to enhance the user experience.
+- The company logo will also feature at the top of the page.
+- In the footer, users may access links to the company's main website as well as its numerous social media pages.
+
+**Sections:**
+
+The single page design is comprised of several distinct sections. Some of these sections (*) are accessible via the navigation bar. The sections are:
+
+<u>What is Reputation Experience Management?</u>
+
+This first section includes introductory text position to the right of a hero image situated in an angled div to add visual appeal to the page. This section is separated from the remained of the page by a div featuring the text, 'RXM Enables Brands To...' 
+
+<u>Get Found (*)</u>
+
+In the 'Get Found' section, users will be able to read about the importance of improving visibility online and how to make themselves more attractive to potential customers. 
+
+There will be a video in this section that users can watch entitled, 'Introduction to Customer Reviews and Star Ratings'.
+
+A 'back to the top' link will enable the user to return to the top navigation menu.
+
+<u>Get Chosen (*)</u>
+
+Distinguished from the previous section by its light grey background colour, 'Get Chosen' explains to users how customers choose businesses online.
+
+A bar graph illustrates influences on the customer purchase decision. Such data provided in a visual way is appealing to Reputation customers.
+
+<u>Get Better (*)</u>
+
+A darker grey background distinguishes this section from 'Get Chosen'. Here, the user can read about how customer feedback can enable businesses to enhance the customer experience. 
+
+Also, the '3Cs for the Optimal Customer Experience' will feature toward the bottom of this section in 3 darker coloured boxes which enhance the visual appeal of the page.
+
+<u>The Power of an RXM Platform (*)</u>
+
+In this section, users may view a video explaining the capabilities of the the Reputation platform. At the bottom of the section, there is a brightly coloured button where users may click to open a demo request form. 
+
+**Features Left to Implement**
+
+Future additions to the website will include an embedded form to replace the demo button. This feature was left out of the current design due to the need to find an effective way to embed lead forms from [Hubspot](https://www.hubspot.com/) into my website's code. 
+
+### 3. Technologies Used
+
+[Back to top](#table-of-contents)
+
+Technologies employed in the creation of the website are as follows:
+
+- HTML5 
+- CSS3
+- JavaScript (for the mobile navigation menu)
+- Chrome Developer Tools (for debugging and testing)
+- [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwt8uGBhBAEiwAayu_9Re_SESOK5WbZcH6AhP1IRIE_hxODw8EmSBYSkPiRQ41fvAERHT38hoCClQQAvD_BwE) (for developing wireframes during the initial design process)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Github](https://github.com/) (project repository)
+- [Gitpod](https://gitpod.io) (code line interface)
+- [Typora](https://typora.io/) (for creating this readme file)
+- [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
+
+### 4. Testing
+
+[Back to top](#table-of-contents)
+
+**Google Developer Tools**
+
+During the process of coding the website, I used Google Developer Tools to view the affects of changes to the code. Occasionally, I would alter the CSS within Google Developer Tools to observe changes before deciding whether or not to incorporate these changes within the code in GitPod. 
+
+**Responsivity and Mobile-first Approach**
+
+To ensure mobile responsivity, I made extensive use of Google Developer Tool's 'responsive' options, viewing my site on a range of devices, including iPhone 5/6/7/X.
+
+**W3C Validator Tools**
+
+Error identification and HTML validation was conducted using [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) while [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) enabled me to identify errors within my project's CSS.
+
+#### **Testing Process**
+
+All sections of the page were tested thoroughly for mobile and web responsivity.
+
+- Navigation bar:
+  - On larger screens, the navigation displays on the right hand side as 4 distinct labels - *Get found, Get Chosen, Get Betters, Request a Demo*. A hover effect and a changing cursor adds interactivity.
+  - On smaller screens, the navigation menu collapses into a hamburger style menu. When clicked, it produces a drop down menu showing the labels which navigate to each section. A hover effect and a changing cursor is employed to add visual appeal and to enhance the user experience.
+  - The navigation bar directs users to the beginning of the distinct sections.
+  - Users may return to the top of the page via a link reading 'back to top'. This features makes it easy for the user to navigate the page by eliminating the need for scrolling.
+  - The navigation works as expected on both mobile and web.
+- Page sections
+  - Each section of the page features consistent fonts, font sizes and colour schemes that are not only consistent with the company's branding, but also enable easy-reading of the text.
+  - Different types of content, including videos and bar graphs, are featured in different sections to add variety of content throughout the page and also to reinforce the messaging conveyed by the page.
+  - A range of background colours have been used to demarcate each section.
+  - All sections display as expected on mobile and web.
+- Media
+  - YouTube videos have been embedded within two of the sections.
+  - CSS makes these videos responsive on different screen sizes.
+  - All media functions correctly on mobile and web.
+- Footer
+  - The social icons in the footer open in a new tab when clicked.
+  - They display well on both mobile and web.
+  - The footer sections functions correctly on mobile and web.
+- Button
+  - The button opens a form in a new tab when clicked.
+  - It functions correctly on mobile and web.
+
+## 5. Development Cycle
+
+[Back to top](#table-of-contents)
+
