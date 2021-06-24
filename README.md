@@ -12,17 +12,22 @@ A live version of the website can be found here.
 
 - 1. [UX](##ux)
 
-  - ​	1.1. Strategy
-    - Project Goals
-      - User Goals
-      - User Expectation
-  - 1.2 Structure
-  - 1.3 Skeleton
-  - 1.4 Surface
-  
-- 2. Features
-
-- 3. Technologies Used
+ - [1. UX](#ux)
+  * [1.1. Strategy](#strategy)
+    + [Project Goals](#project-goals)
+      - [User Goals:](#user-goals)
+      - [User Expectations:](#user-expectations)
+  * [1.2. Structure](#structure)
+  * [1.3. Skeleton](#skeleton)
+  * [1.4. Surface](#surface)
+- [2. Features](#features)
+- [3. Technologies Used](#technologies-used)
+- [4. Testing](#testing)
+- [5. Development Cycle](#development-cycle)
+- [6. Deployment](#deployment)
+- [7. End Product](#end-product)
+- [8. Known Bugs](#known-bugs)
+- [9. Credits](#credits)
 
 
 
