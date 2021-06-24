@@ -17,17 +17,20 @@
         min-height: 100vh;
     }
     /*navigation menu*/
-
+.sticky {
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+}
     /* Add a background color to the top navigation */
 .topnav {
-    background-color: #004f5d;
+    background-color: #fff;
     overflow: hidden;
   }
-  
   /* Style the links inside the navigation bar */
   .topnav a {
     display: inline-block;
-    color: #efefef;
+    color: #004f5d;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -38,7 +41,6 @@
   .topnav a:hover {
     background-color: #eaff59;
     color: #004f5d;
-    
   }
   
   /* Add an active class to highlight the current page */
@@ -84,6 +86,7 @@
         background-position: center;
         background-repeat: no-repeat;
         margin: auto;
+        background-color: white;
     }
     @media screen and (max-width: 414px) {
        #logo { position: relative;
