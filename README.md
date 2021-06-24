@@ -10,7 +10,7 @@ A live version of the website can be found here.
 
 ## [Table of Contents](#1-ux)
 
-- 1. [UX](##1-.-UX)
+- 1. [UX](##1.UX)
 
   - ​	1.1. Strategy
     - Project Goals
