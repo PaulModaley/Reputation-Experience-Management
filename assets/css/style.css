@@ -340,8 +340,59 @@
     padding-left: 2%;
     padding-right: 2%;
     }
-   
-   
+
+/*Form styling*/
+#form {
+  background-color: #efefef;
+  margin: auto;
+  width: 28%;
+  height: auto;
+  padding-left: 20px;
+  
+}
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display:inline-block;     
+}
+label {
+    margin-top: 5px;
+    display: inline-block;      
+    padding-top: 12px;
+    color: #004f5d;
+    font-size: 15px;
+    margin-right: 10px;
+}
+input[type=text] {
+    color: #2c2c2c;
+    font-weight: lighter;
+    display: inline-block;
+    margin-left: 20px;
+    width: 90%;
+}
+#optout {
+    display: inline-block;
+}
+#optin {
+    display: inline-block;
+}
+input[type=checkbox] {
+    background-position: right;
+    display:
+}
+input[type=submit] {
+    background-color: #eaff59;
+    padding: 20px;
+    font-size: large;
+    font-weight: 40px;
+}
+#demobtn {
+    margin: auto;
+    width: 32%;
+    padding-top: 20px;
+}
+
+
 
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
