@@ -88,16 +88,6 @@
         margin: auto;
         background-color: white;
     }
-    /*@media screen and (max-width: 414px) {
-       #logo { position: relative;
-        width: 100%;
-        height: 100px;
-        background-image: url(../images/rep\ symbol.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        margin: auto;
-    }
-}*/
     #heading-text {
         width: 90%;
     }
@@ -122,12 +112,7 @@
         top: 10px;
         text-align: left;
         display: inline-flex;
-        border-left: transparent;
-        border-top: transparent;
-        border-right: #eaff59;
-        border-bottom: #eaff59;
-        border-style: solid;
-        border-radius: 2px;
+        box-shadow: 1px 1px #eaff59;
     }
     .wrapper{
         width: 100%;
@@ -344,10 +329,11 @@
 /*Form styling*/
 #form {
   background-color: #efefef;
-  margin: auto;
-  width: 28%;
+  margin: 0 auto;
+  width: 57vw;
   height: auto;
   padding-left: 20px;
+  box-shadow: 5px 5px #2c2c2c;
   
 }
 input {
@@ -368,7 +354,10 @@ input[type=text] {
     font-weight: lighter;
     display: inline-block;
     margin-left: 20px;
-    width: 90%;
+    width: 40vw;
+}
+#jobtitle {
+    margin-left: 35px;
 }
 #optout {
     display: inline-block;
@@ -382,14 +371,17 @@ input[type=checkbox] {
 }
 input[type=submit] {
     background-color: #eaff59;
+    color: #004f5d;
     padding: 20px;
     font-size: large;
     font-weight: 40px;
 }
 #demobtn {
-    margin: auto;
-    width: 32%;
+    margin: 0 auto;
+    width: 50%;
     padding-top: 20px;
+    justify-content: center;
+    display: flex;
 }
 
 
