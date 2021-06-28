@@ -1,7 +1,6 @@
 /* Mobile first */
 @media only screen and (max-width: 1186px) {
-    @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
-    * {
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);* {
         margin: 0;
         padding: 0;
         border: none;
@@ -376,7 +375,6 @@ input[type=text] {
 }
 input[type=checkbox] {
     background-position: right;
-    display:
 }
 input[type=submit] {
     background-color: #eaff59;
@@ -396,8 +394,7 @@ input[type=submit] {
 
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
-    @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
-    * {
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap); * {
         margin: 0;
         padding: 0;
         border: none;
@@ -734,5 +731,4 @@ input[type=submit] {
 position: relative;
    background-color: #efefef;
    height: 100px;
-}
 }
