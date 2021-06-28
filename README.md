@@ -8,11 +8,11 @@ This microsite explains the concept of RXM - a merging of Online Reputation Mana
 
 A live version of the website can be found here. 
 
-## [Table of Contents](#1-ux)
+# Table of Contents <a name="table-of-contents"></a>
 
 - 1. [UX](#ux)
 
-  - ​[	1.1. Strategy](#strategy)
+  - [1.1. Strategy](#strategy)
     - [Project Goals](#goals)
       - User Goals
       - User Expectation
@@ -20,21 +20,21 @@ A live version of the website can be found here.
   - [1.3 Skeleton](#skeleton)
   - [1.4 Surface](#surface)
   
-- 2. [Features](##2. Features)
+- 2. [Features](#features)
 
-- 3. Technologies Used
+- 3. [Technologies Used](#technologies)
 
-- 4. Testing
+- [4. Testing](#testing)
 
-- 5. Development Cycle
+- [5. Development Cycle](#development)
 
-- 6. Deployment
+- [6. Deployment](#deployment) 
 
-- 7. End Product
+- [7. End Product](#endproduct)
 
-- 8. Known Bugs
+- [ 8. Known Bugs](#knownbugs)
 
-- 9. Credits
+- [9. Credits](#credits)
 
 
 <a name="ux"></a>
@@ -247,6 +247,7 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 
 ## 8. Known Bugs
 <a name="knownbugs"></a>
+
 [Back to top](#table-of-contents)
 
 - On desktop view in particular, the YouTube videos appear somewhat larger than would be ideal.
@@ -254,6 +255,7 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 
 ## 9. Credits
 <a name="credits"></a>
+
 [Back to top](#table-of-contents)
 
 #### Code
