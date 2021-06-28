@@ -12,6 +12,7 @@
       }
     body {
         font-family:'Montserrat', Sans-serif;
+        font-weight: 300px;
         position: relative;
         min-height: 100vh;
     }
@@ -81,7 +82,7 @@
         position: relative;
         width: 100%;
         height: 60px;
-        background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-3860b80/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
+        background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-7f76e69/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
         background-position: center;
         background-repeat: no-repeat;
         margin: auto;
@@ -165,8 +166,8 @@
           margin-bottom: 20px;
           text-align: center;
     }
-}
 /* Get Found  */
+    }
     #get-found {
         color: #eaff59;
         font-size: x-large;
@@ -377,12 +378,14 @@ input[type=text] {
 }
 input[type=checkbox] {
     background-position: right;
+    display:
 }
 input[type=submit] {
     background-color: #eaff59;
     color: #004f5d;
     padding: 20px;
     font-size: large;
+    font-weight: 40px;
 }
 #demobtn {
     margin: 0 auto;
@@ -397,14 +400,14 @@ input[type=submit] {
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
     @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
-    * 
-    {
+    * {
         margin: 0;
         padding: 0;
         border: none;
     }
     body {
         font-family:'Montserrat', Sans-serif;
+        font-weight: 300px;
     }
 
     /*navigation menu*/
@@ -465,9 +468,9 @@ input[type=submit] {
     
     #logo{
         position: absolute;
-        width: 40%;
+        width: 50%;
         height: 45px;
-        background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-3860b80/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
+        background-image: url(https://cdn-bdclh.nitrocdn.com/ZXHaaGpMcRRbVAjcMYUOsikZqTHBAksF/assets/static/optimized/rev-7f76e69/wp-content/uploads/2021/01/reputation_logo_horizontal_dark.png);
         background-position: left;
         background-repeat: no-repeat;
         margin-left: 50px;
@@ -527,7 +530,8 @@ input[type=submit] {
         letter-spacing: 2px;
         font-size: 30px;
     }
-/* Get Found  */
+    /* Get Found  */
+}
 #get-found {
     color: #eaff59;
     font-size: x-large;
