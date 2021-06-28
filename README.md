@@ -271,6 +271,3 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 - Videos came from [Reputation's YouTube channel](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg)
 - Logo image came from Reputation
 - Branding and colour scheme came from Reputation
-
-
-
