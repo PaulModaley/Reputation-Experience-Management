@@ -10,25 +10,34 @@ A live version of the website can be found here.
 
 ## [Table of Contents](#1-ux)
 
- - [1. UX](#ux)
-  * [1.1. Strategy](#strategy)
-    + [Project Goals](#project-goals)
-      - [User Goals:](#user-goals)
-      - [User Expectations:](#user-expectations)
-  * [1.2. Structure](#structure)
-  * [1.3. Skeleton](#skeleton)
-  * [1.4. Surface](#surface)
-- [2. Features](#features)
-- [3. Technologies Used](#technologies-used)
-- [4. Testing](#testing)
-- [5. Development Cycle](#development-cycle)
-- [6. Deployment](#deployment)
-- [7. End Product](#end-product)
-- [8. Known Bugs](#known-bugs)
-- [9. Credits](#credits)
+- 1. [UX](##1.UX)
+
+  - ​	1.1. Strategy
+    - Project Goals
+      - User Goals
+      - User Expectation
+  - 1.2 Structure
+  - 1.3 Skeleton
+  - 1.4 Surface
+  
+- 2. Features
+
+- 3. Technologies Used
+
+- 4. Testing
+
+- 5. Development Cycle
+
+- 6. Deployment
+
+- 7. End Product
+
+- 8. Known Bugs
+
+- 9. Credits
 
 
-<a name="ux"></a>
+
 ## 1.UX
 
 [Back to top](#table-of-contents)
@@ -38,7 +47,7 @@ The reason for this website creation is to provide a more concise version of Rep
 A microsite format was selected for the revised RXM guide because of the potential SEO benefits of microsites to the company's main website. 
 
 Furthermore, the marketing department at Reputation recognises the preference of our audience towards web based assets with longer, more contained pages as opposed to multi-page sites. These audience preferences have informed the design and development of this website. 
-<a name="strategy"></a>
+
 ### 1.1 Strategy
 
 [Back to top](#table-of-contents)
@@ -72,7 +81,7 @@ The content must:
 - Be easily navigable.
 - Be responsive on mobile, desktop and tablet devices.
 - Enable the user to visit Reputation's main website and social media channels.
-<a name="structure"></a>
+
 #### Structure
 
 The site will feature distinct sections on a single page. Users may navigate between the sections via the main navigation situated at the top of the page (right hand side in desktop mode). Users may return to the top of the page via the 'back to top' link found at the bottom of each section.
@@ -81,7 +90,7 @@ The site will feature distinct sections on a single page. Users may navigate bet
 - Navigation bar changes to a 'hamburger' style menu (top centre of screen) on smaller screens
 - Footer at the bottom of the page links to Reputation's website and social media pages.
 - All elements will be comply with Reputation's branding, including colours, font size and typography.
-<a name="skeleton"></a>
+
 #### Skeleton
 
 I generated designs for the website using wireframes in Balsamiq. 
@@ -89,11 +98,11 @@ I generated designs for the website using wireframes in Balsamiq.
 **Wire Frames**
 
 ![](https://share.balsamiq.com/c/sibaUJp6DERMeyUCwRAKru.png)
-<a name="surface"></a>
+
 #### Surface
 
 The colour schemes used are consistent with Reputation's 2020 branding guidelines. 
-<a name="features"></a>
+
 ## 2. Features
 
 [Back to top](#table-of-contents)
@@ -108,11 +117,11 @@ The colour schemes used are consistent with Reputation's 2020 branding guideline
 
 The single page design is comprised of several distinct sections. Some of these sections (*) are accessible via the navigation bar. The sections are:
 
-**<u>What is Reputation Experience Management?</u>**
+<u>What is Reputation Experience Management?</u>
 
 This first section includes introductory text position to the right of a hero image situated in an angled div to add visual appeal to the page. This section is separated from the remained of the page by a div featuring the text, 'RXM Enables Brands To...' 
 
-**<u>Get Found (*)</u>**
+<u>Get Found (*)</u>
 
 In the 'Get Found' section, users will be able to read about the importance of improving visibility online and how to make themselves more attractive to potential customers. 
 
@@ -120,26 +129,22 @@ There will be a video in this section that users can watch entitled, 'Introducti
 
 A 'back to the top' link will enable the user to return to the top navigation menu.
 
-**<u>Get Chosen (*)</u>**
+<u>Get Chosen (*)</u>
 
 Distinguished from the previous section by its light grey background colour, 'Get Chosen' explains to users how customers choose businesses online.
 
 A bar graph illustrates influences on the customer purchase decision. Such data provided in a visual way is appealing to Reputation customers.
 
-**<u>Get Better (*)</u>**
+<u>Get Better (*)</u>
 
 A darker grey background distinguishes this section from 'Get Chosen'. Here, the user can read about how customer feedback can enable businesses to enhance the customer experience. 
 
 Also, the '3Cs for the Optimal Customer Experience' will feature toward the bottom of this section in 3 darker coloured boxes which enhance the visual appeal of the page.
 
-**<u>The Power of an RXM Platform (*)</u>**
+<u>The Power of an RXM Platform (*)</u>
 
-In this section, users may view a video explaining the capabilities of the the Reputation platform. At the bottom of the section, there is a brightly coloured button where users may click to open a demo request form. 
+In this section, users may view a video explaining the capabilities of the the Reputation platform. At the bottom of the section, there is a form which users may complete to signal their interest in receiving a demo of the platform.
 
-**Features Left to Implement**
-
-Future additions to the website will include an embedded form to replace the demo button. This feature was left out of the current design due to the need to find an effective way to embed lead forms from [Hubspot](https://www.hubspot.com/) into my website's code. 
-<a name="technologies-used"></a>
 ### 3. Technologies Used
 
 [Back to top](#table-of-contents)
@@ -157,7 +162,7 @@ Technologies employed in the creation of the website are as follows:
 - [Gitpod](https://gitpod.io) (code line interface)
 - [Typora](https://typora.io/) (for creating this readme file)
 - [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
-<a name="testing"></a>
+
 ### 4. Testing
 
 [Back to top](#table-of-contents)
@@ -201,8 +206,60 @@ All sections of the page were tested thoroughly for mobile and web responsivity.
 - Button
   - The button opens a form in a new tab when clicked.
   - It functions correctly on mobile and web.
-<a name="development-cycle"></a>
+
 ## 5. Development Cycle
 
 [Back to top](#table-of-contents)
+
+Having established a clear vision for the project as illustrated through wireframes, the development cycle was fairly linear without a great deal of deviation from the original plan. 
+
+However, there were a few changes made during the development cycle which were not accounted for during the planning process.  The changes were made following discussions with other developers who offered constructive criticism of the site during its development. 
+
+#### Form
+
+- A form was added to replace the 'Get a Demo Button'
+- The form presents one major advantage over the 'Get a Demo' button - it reduces the number of clicks needed before the user can access the form and avoids the need for opening new tabs.
+
+## 6. Deployment
+
+I deployed my project through GitHub. The process was as follows:
+
+- From my repository, select 'Settings'.
+- Select pages.
+- Select 'Branch: master' under the 'Source' heading
+- Select publish
+
+## 7. End Product
+
+[Back to top](#table-of-contents)
+
+## 8. Known Bugs
+
+[Back to top](#table-of-contents)
+
+- On desktop view in particular, the YouTube videos appear somewhat large.
+
+## 9. Credits
+
+[Back to top](#table-of-contents)
+
+#### Code
+
+- The angled div came from [Suman Biswas at Codepen](https://codepen.io/biswassuman/pen/NWGqKwd)
+- The transparent text box over the hero image in mobile view came from [Rob Doyle Creative](https://robdoylecreative.com/how-to-add-a-transparent-text-box-over-an-image-using-css/)
+- The bar graph in the 'Get Chosen' section came from [W3 Schools](https://www.w3schools.com/howto/howto_css_skill_bar.asp)
+- The responsive navigation bar came from [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+- The responsive iframes came from [W3 Schools](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
+- Fonts came from [Google Fonts](https://fonts.google.com/)
+- Icons in the footer came from [https://fontawesome.com/](https://fontawesome.com/)
+
+#### Content
+
+- Text content and statistics came from Reputation's ['RXM Guide: What is Reputation Experience Management?'](https://go.reputation.com/hubfs/Downloadable%20Assets/2020%20RXM%20Guide%20EN.pdf)
+- Images came from [Getty Images](gettyimages.co.uk)
+- Videos came from [Reputation's YouTube channel](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg)
+- Logo image came from Reputation
+- Branding and colour scheme came from Reputation
+
+
 
