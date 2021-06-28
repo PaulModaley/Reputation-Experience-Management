@@ -37,7 +37,7 @@ A live version of the website can be found here.
 - 9. Credits
 
 
-
+<a name="ux"></a>
 ## 1.UX
 
 [Back to top](#table-of-contents)
@@ -47,11 +47,11 @@ The reason for this website creation is to provide a more concise version of Rep
 A microsite format was selected for the revised RXM guide because of the potential SEO benefits of microsites to the company's main website. 
 
 Furthermore, the marketing department at Reputation recognises the preference of our audience towards web based assets with longer, more contained pages as opposed to multi-page sites. These audience preferences have informed the design and development of this website. 
-
+<a name="strategy"></a>
 ### 1.1 Strategy
 
 [Back to top](#table-of-contents)
-
+<a name="goals"></a>
 #### Project Goals
 
 The goal of the website is to educate marketing and CX professionals about the RXM concept and to drive conversions in the form of a demo request. It will also serve as a useful point of reference for Reputation's sales team who can signpost prospective clients to the microsite. 
@@ -72,6 +72,7 @@ Frequent user goals:
 
 - To access Reputation's main website or social media channels
 
+<a name="expectations"></a>
 #### User Expectations:
 
 The content must:
@@ -81,7 +82,7 @@ The content must:
 - Be easily navigable.
 - Be responsive on mobile, desktop and tablet devices.
 - Enable the user to visit Reputation's main website and social media channels.
-
+<a name="structure"></a>
 #### Structure
 
 The site will feature distinct sections on a single page. Users may navigate between the sections via the main navigation situated at the top of the page (right hand side in desktop mode). Users may return to the top of the page via the 'back to top' link found at the bottom of each section.
@@ -90,19 +91,19 @@ The site will feature distinct sections on a single page. Users may navigate bet
 - Navigation bar changes to a 'hamburger' style menu (top centre of screen) on smaller screens
 - Footer at the bottom of the page links to Reputation's website and social media pages.
 - All elements will be comply with Reputation's branding, including colours, font size and typography.
-
+<a name="skeleton"></a>
 #### Skeleton
 
 I generated designs for the website using wireframes in Balsamiq. 
-
+<a name="wireframes"></a>
 **Wire Frames**
 
 ![](https://share.balsamiq.com/c/sibaUJp6DERMeyUCwRAKru.png)
-
+<a name="surface"></a>
 #### Surface
 
 The colour schemes used are consistent with Reputation's 2020 branding guidelines. 
-
+<a name="features"></a>
 ## 2. Features
 
 [Back to top](#table-of-contents)
@@ -144,7 +145,7 @@ Also, the '3Cs for the Optimal Customer Experience' will feature toward the bott
 <u>The Power of an RXM Platform (*)</u>
 
 In this section, users may view a video explaining the capabilities of the the Reputation platform. At the bottom of the section, there is a form which users may complete to signal their interest in receiving a demo of the platform.
-
+<a name="technologies"></a>
 ### 3. Technologies Used
 
 [Back to top](#table-of-contents)
@@ -162,7 +163,7 @@ Technologies employed in the creation of the website are as follows:
 - [GitPod](https://gitpod.io) (code line interface)
 - [Typora](https://typora.io/) (for creating this readme file)
 - [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
-
+<a name="testing"></a>
 ### 4. Testing
 
 [Back to top](#table-of-contents)
@@ -206,7 +207,7 @@ All sections of the page were tested thoroughly for mobile and web responsivity.
 - Button
   - The button opens a form in a new tab when clicked.
   - It functions correctly on mobile and web.
-
+<a name="development"></a>
 ## 5. Development Cycle
 
 [Back to top](#table-of-contents)
@@ -227,7 +228,7 @@ However, there were a few changes made during the development cycle which were n
 #### Shadows
 
 - To enhance the visual appearance, I added a box shadow effect at the bar graphs and boxes including the form.
-
+<a name="deployment"></a>
 ## 6. Deployment
 
 I deployed my project through GitHub. The process was as follows:
@@ -238,20 +239,21 @@ I deployed my project through GitHub. The process was as follows:
 - Select publish
 
 ## 7. End Product
+<a name="endproduct"></a>
 
 [Back to top](#table-of-contents)
 
 The site may be viewed via this link: https://paulmodaley.github.io/Reputation-Experience-Management/
 
 ## 8. Known Bugs
-
+<a name="knownbugs"></a>
 [Back to top](#table-of-contents)
 
 - On desktop view in particular, the YouTube videos appear somewhat larger than would be ideal.
 - Form inputs were not aligned. This has been remedied by adding a width of 100px to the CSS input 'label'.
 
 ## 9. Credits
-
+<a name="credits"></a>
 [Back to top](#table-of-contents)
 
 #### Code
