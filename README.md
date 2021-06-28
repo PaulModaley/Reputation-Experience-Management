@@ -20,7 +20,7 @@ A live version of the website can be found here.
   - 1.3 Skeleton
   - 1.4 Surface
   
-- 2. Features
+- 2. [Features](##2. Features)
 
 - 3. Technologies Used
 
@@ -158,8 +158,8 @@ Technologies employed in the creation of the website are as follows:
 - [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwt8uGBhBAEiwAayu_9Re_SESOK5WbZcH6AhP1IRIE_hxODw8EmSBYSkPiRQ41fvAERHT38hoCClQQAvD_BwE) (for developing wireframes during the initial design process)
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
-- [Github](https://github.com/) (project repository)
-- [Gitpod](https://gitpod.io) (code line interface)
+- [GitHub](https://github.com/) (project repository)
+- [GitPod](https://gitpod.io) (code line interface)
 - [Typora](https://typora.io/) (for creating this readme file)
 - [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
 
@@ -271,3 +271,6 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 - Videos came from [Reputation's YouTube channel](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg)
 - Logo image came from Reputation
 - Branding and colour scheme came from Reputation
+
+
+
