@@ -208,7 +208,7 @@
         height: 600px;
     }
     * {box-sizing: border-box}
-    #graph > p {
+    .graph > p {
         font-size: small;
         text-align: left;
         color:#004f5d;
@@ -621,7 +621,7 @@ input[type=submit] {
     height: 300px;
 }
 * {box-sizing: border-box}
-#graph > p {
+.graph > p {
     font-size: small;
     text-align: left;
     color:#004f5d;
