@@ -368,11 +368,11 @@ input[type=text] {
     margin-left: 20px;
     width: 40vw;
 }
-#optout {
+.optout {
     display: inline-block;
     width: 20px;
 }
-#optin {
+.optin {
     display: inline-block;
     width: 20px;
 }
