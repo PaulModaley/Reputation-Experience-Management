@@ -390,8 +390,6 @@ input[type=submit] {
     display: flex;
 }
 
-
-
     /* Desktop view */
     @media only screen and (min-width: 1186px) {
     @import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap); * {
@@ -708,27 +706,26 @@ input[type=submit] {
     text-align: center;
     padding-bottom: 20px;
 }
-.button {
-    text-align: center;
-    width: 120px;
-    background-color: #eaff59;
-    color: #004f5d;
-    font-size: medium;
-    font-weight: bold;
-    padding-left: 10px;  
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-decoration: none;
-    transition-duration: 0.4s;
-    cursor: pointer;
-}
-.button:hover {
-    background-color: #efefef;
-    color: #004f5d;
-}
 #footer {
 position: relative;
    background-color: #efefef;
    height: 100px;
+}
+#demobtn {
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+}
+#demobtn  {
+        padding: 50px;
+        background-color: #efefef;
+        transition: transform .2s; /* Animation */
+        width: 150px;
+        height: 200px;
+        margin: 0 auto;
+      } 
+      #demobtn:hover {
+        transform: scale(1.09); 
 }
