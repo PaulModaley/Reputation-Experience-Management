@@ -12,7 +12,6 @@
       }
     body {
         font-family:'Montserrat', Sans-serif;
-        font-weight: 300px;
         position: relative;
         min-height: 100vh;
     }
@@ -166,8 +165,8 @@
           margin-bottom: 20px;
           text-align: center;
     }
+}
 /* Get Found  */
-    }
     #get-found {
         color: #eaff59;
         font-size: x-large;
@@ -182,7 +181,6 @@
         width: 100%;
         font-size: medium;
         background-color: #004f5d;
-        
     }
     #local-search-text {
         width: 100%;
@@ -385,7 +383,6 @@ input[type=submit] {
     color: #004f5d;
     padding: 20px;
     font-size: large;
-    font-weight: 40px;
 }
 #demobtn {
     margin: 0 auto;
@@ -407,7 +404,6 @@ input[type=submit] {
     }
     body {
         font-family:'Montserrat', Sans-serif;
-        font-weight: 300px;
     }
 
     /*navigation menu*/
@@ -529,9 +525,9 @@ input[type=submit] {
         padding-bottom: 20px;
         letter-spacing: 2px;
         font-size: 30px;
-    }
-    /* Get Found  */
+    } 
 }
+/* Get Found  */
 #get-found {
     color: #eaff59;
     font-size: x-large;
