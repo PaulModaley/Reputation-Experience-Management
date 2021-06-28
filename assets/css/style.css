@@ -350,11 +350,12 @@
 input {
     margin-top: 5px;
     margin-bottom: 5px;
-    display:inline-block;     
+    display: inline-block;     
 }
 label {
     margin-top: 5px;
-    display: inline-block;      
+    display: inline-block;   
+    width: 100px;   
     padding-top: 12px;
     color: #004f5d;
     font-size: 15px;
@@ -367,14 +368,13 @@ input[type=text] {
     margin-left: 20px;
     width: 40vw;
 }
-#jobtitle {
-    margin-left: 35px;
-}
 #optout {
     display: inline-block;
+    width: 20px;
 }
 #optin {
     display: inline-block;
+    width: 20px;
 }
 input[type=checkbox] {
     background-position: right;
