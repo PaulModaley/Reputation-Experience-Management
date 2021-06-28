@@ -220,6 +220,14 @@ However, there were a few changes made during the development cycle which were n
 - A form was added to replace the 'Get a Demo Button'
 - The form presents one major advantage over the 'Get a Demo' button - it reduces the number of clicks needed before the user can access the form and avoids the need for opening new tabs.
 
+#### Navigation
+
+- Following discussion with my mentor, I implemented a sticky navigation to enhance the user experience.
+
+#### Shadows
+
+- To enhance the visual appearance, I added a box shadow effect at the bar graphs and boxes including the form.
+
 ## 6. Deployment
 
 I deployed my project through GitHub. The process was as follows:
@@ -233,11 +241,14 @@ I deployed my project through GitHub. The process was as follows:
 
 [Back to top](#table-of-contents)
 
+The site may be viewed via this link: https://paulmodaley.github.io/Reputation-Experience-Management/
+
 ## 8. Known Bugs
 
 [Back to top](#table-of-contents)
 
-- On desktop view in particular, the YouTube videos appear somewhat large.
+- On desktop view in particular, the YouTube videos appear somewhat larger than would be ideal.
+- Form inputs were not aligned. This has been remedied by adding a width of 100px to the CSS input 'label'.
 
 ## 9. Credits
 
@@ -260,6 +271,3 @@ I deployed my project through GitHub. The process was as follows:
 - Videos came from [Reputation's YouTube channel](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg)
 - Logo image came from Reputation
 - Branding and colour scheme came from Reputation
-
-
-

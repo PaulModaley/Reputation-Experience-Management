@@ -642,9 +642,9 @@ input[type=submit] {
   color: #d7d7d7;
 }
 
-.ratings {width: 76%; background-color: #004f5d; padding-right: 6px; color: #eaff59;}
-.family {width: 81%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px;}
-.references {width: 64%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px; position: relative;}
+.ratings {width: 76%; background-color: #004f5d; padding-right: 6px; color: #eaff59; box-shadow: 3px 3px #eaff59;}
+.family {width: 81%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px; box-shadow: 2px 2px #004f5d;}
+.references {width: 64%; background-color: #d7d7d7; color: #004f5d; padding-right: 6px; position: relative; box-shadow: 2px 2px #004f5d;}
 
 /* Get better */
 #get-better {
