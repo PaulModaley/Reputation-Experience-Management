@@ -20,7 +20,7 @@ A live version of the website can be found here.
   - [1.3 Skeleton](#skeleton)
   - [1.4 Surface](#surface)
   
-- [2. [Features] (#features)
+- [2. Features] (#features)
 
 - [3. Technologies Used](#technologies)
 
