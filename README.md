@@ -118,11 +118,11 @@ The colour schemes used are consistent with Reputation's 2020 branding guideline
 
 The single page design is comprised of several distinct sections. Some of these sections (*) are accessible via the navigation bar. The sections are:
 
-<u>What is Reputation Experience Management?</u>
+**<u>What is Reputation Experience Management?</u>**
 
 This first section includes introductory text position to the right of a hero image situated in an angled div to add visual appeal to the page. This section is separated from the remained of the page by a div featuring the text, 'RXM Enables Brands To...' 
 
-<u>Get Found (*)</u>
+**<u>Get Found (*)**</u>
 
 In the 'Get Found' section, users will be able to read about the importance of improving visibility online and how to make themselves more attractive to potential customers. 
 
@@ -130,19 +130,19 @@ There will be a video in this section that users can watch entitled, 'Introducti
 
 A 'back to the top' link will enable the user to return to the top navigation menu.
 
-<u>Get Chosen (*)</u>
+**<u>Get Chosen (*)</u>**
 
 Distinguished from the previous section by its light grey background colour, 'Get Chosen' explains to users how customers choose businesses online.
 
 A bar graph illustrates influences on the customer purchase decision. Such data provided in a visual way is appealing to Reputation customers.
 
-<u>Get Better (*)</u>
+**<u>Get Better (*)</u>**
 
 A darker grey background distinguishes this section from 'Get Chosen'. Here, the user can read about how customer feedback can enable businesses to enhance the customer experience. 
 
 Also, the '3Cs for the Optimal Customer Experience' will feature toward the bottom of this section in 3 darker coloured boxes which enhance the visual appeal of the page.
 
-<u>The Power of an RXM Platform (*)</u>
+**<u>The Power of an RXM Platform (*)</u>**
 
 In this section, users may view a video explaining the capabilities of the the Reputation platform. At the bottom of the section, there is a form which users may complete to signal their interest in receiving a demo of the platform.
 <a name="technologies"></a>
