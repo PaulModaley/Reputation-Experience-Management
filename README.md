@@ -240,19 +240,8 @@ I deployed my project through GitHub. The process was as follows:
 
 ## 7. End Product
 <a name="endproduct"></a>
-![image-20210629122133192](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122133192.png)
+![image](https://user-images.githubusercontent.com/83225842/123790421-36dd3600-d8d6-11eb-92e9-01525d7566c5.png)
 
-![image-20210629122204381](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122204381.png)
-
-![image-20210629122219733](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122219733.png)
-
-![image-20210629122229842](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122229842.png)
-
-![image-20210629122240698](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122240698.png)
-
-![image-20210629122305865](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122305865.png)
-
-![image-20210629122314233](C:\Users\Paul Modaley\AppData\Roaming\Typora\typora-user-images\image-20210629122314233.png)
 [Back to top](#table-of-contents)
 
 The site may be viewed via this link: https://paulmodaley.github.io/Reputation-Experience-Management/
