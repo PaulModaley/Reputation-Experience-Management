@@ -241,6 +241,12 @@ I deployed my project through GitHub. The process was as follows:
 ## 7. End Product
 <a name="endproduct"></a>
 ![image](https://user-images.githubusercontent.com/83225842/123790421-36dd3600-d8d6-11eb-92e9-01525d7566c5.png)
+![image](https://user-images.githubusercontent.com/83225842/123790506-52484100-d8d6-11eb-9e7b-38f1cbdae5e9.png)
+![image](https://user-images.githubusercontent.com/83225842/123790545-5d02d600-d8d6-11eb-9beb-76650405804f.png)
+![image](https://user-images.githubusercontent.com/83225842/123790570-64c27a80-d8d6-11eb-9efc-cfad2d9e6121.png)
+![image](https://user-images.githubusercontent.com/83225842/123790606-6f7d0f80-d8d6-11eb-8131-60d28bbca67c.png)
+![image](https://user-images.githubusercontent.com/83225842/123790634-7572f080-d8d6-11eb-8aca-c02944497bd3.png)
+
 
 [Back to top](#table-of-contents)
 
