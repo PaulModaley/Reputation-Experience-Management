@@ -336,13 +336,13 @@
 
 /*Form styling*/
 #form {
-  background-color: #efefef;
+  background: linear-gradient(#efefef, #d7d7d7, #C0C0C0);
+  opacity: 1.2;
   margin: 0 auto;
-  width: 57vw;
+  width: 54vw;
   height: auto;
   padding-left: 20px;
   box-shadow: 5px 5px #2c2c2c;
-  
 }
 input {
     margin-top: 5px;
@@ -711,7 +711,55 @@ position: relative;
    background-color: #efefef;
    height: 100px;
 }
-#demobtn {
+
+/*Form styling*/
+#form {
+    background-color: #efefef;
+    margin: 0 auto;
+    width: 57vw;
+    height: auto;
+    padding-left: 20px;
+    box-shadow: 5px 5px #2c2c2c;
+  }
+  input {
+      margin-top: 5px;
+      margin-bottom: 5px;
+      display: inline-block;     
+  }
+  label {
+      margin-top: 5px;
+      display: inline-block;   
+      width: 100px;   
+      padding-top: 12px;
+      color: #004f5d;
+      font-size: 15px;
+      margin-right: 10px;
+  }
+  input[type=text] {
+      color: #2c2c2c;
+      font-weight: lighter;
+      display: inline-block;
+      margin-left: 20px;
+      width: 40vw;
+  }
+  .optout {
+      display: inline-block;
+      width: 20px;
+  }
+  .optin {
+      display: inline-block;
+      width: 20px;
+  }
+  input[type=checkbox] {
+      background-position: right;
+  }
+  input[type=submit] {
+      background-color: #eaff59;
+      color: #004f5d;
+      padding: 20px;
+      font-size: large;
+  }
+  #demobtn {
     margin: 0 auto;
     width: 50%;
     padding-top: 20px;
@@ -720,12 +768,12 @@ position: relative;
 }
 #demobtn  {
         padding: 50px;
-        background-color: #efefef;
+        background-color: transparent;
         transition: transform .2s; /* Animation */
         width: 150px;
-        height: 200px;
+        height: 180px;
         margin: 0 auto;
       } 
-      #demobtn:hover {
+#demobtn:hover {
         transform: scale(1.09); 
 }
