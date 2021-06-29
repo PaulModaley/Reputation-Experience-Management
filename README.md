@@ -246,6 +246,8 @@ I deployed my project through GitHub. The process was as follows:
 ![image](https://user-images.githubusercontent.com/83225842/123790570-64c27a80-d8d6-11eb-9efc-cfad2d9e6121.png)
 ![image](https://user-images.githubusercontent.com/83225842/123790606-6f7d0f80-d8d6-11eb-8131-60d28bbca67c.png)
 ![image](https://user-images.githubusercontent.com/83225842/123790634-7572f080-d8d6-11eb-8aca-c02944497bd3.png)
+![image](https://user-images.githubusercontent.com/83225842/123851584-475fd180-d913-11eb-90ab-be8509847cc4.png)
+
 
 
 [Back to top](#table-of-contents)
