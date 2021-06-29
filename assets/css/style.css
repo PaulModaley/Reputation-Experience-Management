@@ -146,7 +146,7 @@
             object-fit: fill;
             background-repeat: no-repeat;
           }
-    }
+        }
       #mobile-only {
         visibility: visible;
         color:#efefef;
@@ -502,7 +502,6 @@ input[type=submit] {
         background-color: #fff;
         object-fit: fill;
         background-repeat: no-repeat;
-        border-bottom: #fff;
         border-width: 5px;
         clip-path: polygon(20% 0, 1600px 0, 1600px 100%, 0 100%);
       }
