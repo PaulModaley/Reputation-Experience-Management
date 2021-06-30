@@ -186,27 +186,27 @@ Error identification and HTML validation was conducted using [W3C Markup](https:
 
 All sections of the page were tested thoroughly for mobile and web responsivity.
 
-- Navigation bar:
+- **Navigation bar - Expectation: Pass**
   - On larger screens, the navigation displays on the right hand side as 4 distinct labels - *Get found, Get Chosen, Get Betters, Request a Demo*. A hover effect and a changing cursor adds interactivity.
   - On smaller screens, the navigation menu collapses into a hamburger style menu. When clicked, it produces a drop down menu showing the labels which navigate to each section. A hover effect and a changing cursor is employed to add visual appeal and to enhance the user experience.
   - The navigation bar directs users to the beginning of the distinct sections.
   - The navigation bar is 'sticky' meaning that it it stays visible at the top of the screen even as the user scrolls. This is to enable easy navigation of the page.
   - Users may return to the top of the page via a link reading 'back to top'. This features makes it easy for the user to navigate the page by eliminating the need for scrolling.
   - The navigation works as expected on both mobile and web.
-- Page sections
+- **Page sections - Expectation: Pass**
   - Each section of the page features consistent fonts, font sizes and colour schemes that are not only consistent with the company's branding, but also enable easy-reading of the text.
   - Different types of content, including videos and bar graphs, are featured in different sections to add variety of content throughout the page and also to reinforce the messaging conveyed by the page.
   - A range of background colours have been used to demarcate each section.
   - All sections display as expected on mobile and web.
-- Media
+- **Media - Expectation: Pass**
   - YouTube videos have been embedded within two of the sections.
   - CSS makes these videos responsive on different screen sizes.
   - All media functions correctly on mobile and web.
-- Footer
+- **Footer - Expectation: Pass**
   - The social icons in the footer open in a new tab when clicked.
   - They display well on both mobile and web.
   - The footer sections functions correctly on mobile and web.
-- Button
+- **Button - Expectation: Pass**
   - The button opens a form in a new tab when clicked.
   - It functions correctly on mobile and web.
 <a name="development"></a>
