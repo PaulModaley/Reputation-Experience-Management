@@ -240,12 +240,20 @@ I deployed my project through GitHub. The process was as follows:
 
 ## 7. End Product
 <a name="endproduct"></a>
+
+**Header section with 'Get Found' section partially visible**
 ![image](https://user-images.githubusercontent.com/83225842/123790421-36dd3600-d8d6-11eb-92e9-01525d7566c5.png)
+**'Get Found' section with 'Get Chosen' section partially visible**
 ![image](https://user-images.githubusercontent.com/83225842/123790506-52484100-d8d6-11eb-9e7b-38f1cbdae5e9.png)
+**'Get Chosen' section with 'Get Better' section partially visible**
 ![image](https://user-images.githubusercontent.com/83225842/123790545-5d02d600-d8d6-11eb-9beb-76650405804f.png)
+**'Get Better' section with 'The Power of an RXM Platform' section partially visible**
 ![image](https://user-images.githubusercontent.com/83225842/123790570-64c27a80-d8d6-11eb-9efc-cfad2d9e6121.png)
+
 ![image](https://user-images.githubusercontent.com/83225842/123790606-6f7d0f80-d8d6-11eb-8131-60d28bbca67c.png)
+
 ![image](https://user-images.githubusercontent.com/83225842/123790634-7572f080-d8d6-11eb-8aca-c02944497bd3.png)
+
 ![image](https://user-images.githubusercontent.com/83225842/123851584-475fd180-d913-11eb-90ab-be8509847cc4.png)
 
 
