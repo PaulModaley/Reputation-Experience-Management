@@ -71,6 +71,7 @@ Returning visitor goals:
 Frequent user goals:
 
 - To access Reputation's main website or social media channels
+- To refresh knowledge of RXM
 
 <a name="expectations"></a>
 #### User Expectations:
