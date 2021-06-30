@@ -71,6 +71,7 @@ Returning visitor goals:
 Frequent user goals:
 
 - To access Reputation's main website or social media channels
+- To refresh knowledge of RXM
 
 <a name="expectations"></a>
 #### User Expectations:
@@ -163,6 +164,8 @@ Technologies employed in the creation of the website are as follows:
 - [GitPod](https://gitpod.io) (code line interface)
 - [Typora](https://typora.io/) (for creating this readme file)
 - [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
+- [Am I Responsive?](http://ami.responsivedesign.is/) (for checking responsivity and screenshots of site functioning on different devices)
+- [ImgBB](https://imgbb.com/) (for image hosting of the logo)
 <a name="testing"></a>
 ### 4. Testing
 
@@ -184,27 +187,27 @@ Error identification and HTML validation was conducted using [W3C Markup](https:
 
 All sections of the page were tested thoroughly for mobile and web responsivity.
 
-- Navigation bar:
+- **Navigation bar - Expectation: Pass**
   - On larger screens, the navigation displays on the right hand side as 4 distinct labels - *Get found, Get Chosen, Get Betters, Request a Demo*. A hover effect and a changing cursor adds interactivity.
   - On smaller screens, the navigation menu collapses into a hamburger style menu. When clicked, it produces a drop down menu showing the labels which navigate to each section. A hover effect and a changing cursor is employed to add visual appeal and to enhance the user experience.
   - The navigation bar directs users to the beginning of the distinct sections.
   - The navigation bar is 'sticky' meaning that it it stays visible at the top of the screen even as the user scrolls. This is to enable easy navigation of the page.
   - Users may return to the top of the page via a link reading 'back to top'. This features makes it easy for the user to navigate the page by eliminating the need for scrolling.
   - The navigation works as expected on both mobile and web.
-- Page sections
+- **Page sections - Expectation: Pass**
   - Each section of the page features consistent fonts, font sizes and colour schemes that are not only consistent with the company's branding, but also enable easy-reading of the text.
   - Different types of content, including videos and bar graphs, are featured in different sections to add variety of content throughout the page and also to reinforce the messaging conveyed by the page.
   - A range of background colours have been used to demarcate each section.
   - All sections display as expected on mobile and web.
-- Media
+- **Media - Expectation: Pass**
   - YouTube videos have been embedded within two of the sections.
   - CSS makes these videos responsive on different screen sizes.
   - All media functions correctly on mobile and web.
-- Footer
+- **Footer - Expectation: Pass**
   - The social icons in the footer open in a new tab when clicked.
   - They display well on both mobile and web.
   - The footer sections functions correctly on mobile and web.
-- Button
+- **Button - Expectation: Pass**
   - The button opens a form in a new tab when clicked.
   - It functions correctly on mobile and web.
 <a name="development"></a>
@@ -260,7 +263,7 @@ I deployed my project through GitHub. The process was as follows:
 ![image](https://user-images.githubusercontent.com/83225842/123790634-7572f080-d8d6-11eb-8aca-c02944497bd3.png)
 ***
 **Screenshot of website operating on various devices**
-![image](https://user-images.githubusercontent.com/83225842/123851584-475fd180-d913-11eb-90ab-be8509847cc4.png)
+![image](https://user-images.githubusercontent.com/83225842/123940279-ea0a6580-d990-11eb-9488-a4203fc0dff3.png)
 
 
 
@@ -273,8 +276,11 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 
 [Back to top](#table-of-contents)
 
-- On desktop view in particular, the YouTube videos appear somewhat larger than would be ideal.
-- Form inputs were not aligned. This has been remedied by adding a width of 100px to the CSS input 'label'.
+- On desktop view, the YouTube videos appear somewhat larger than would be ideal. This issue remains **unresolved**, however, this is not a significant issue because the larger videos does not diminish the overall user experience. 
+- Form inputs were not aligned. This has been remedied by adding a width of 100px to the CSS input 'label'. This issue has been **resolved**.
+- The div containing the demo button was showing in a contrasting colour which appeared unsightly. This was **resolved** by setting the colour to transparent.
+- Using background-image in CSS for the site logo was unreliable and the logo disappeared unexpectedly at times. By using the img element in HTML as opposed to background-image in CSS, the issue was **resolved** and the logo now appears consistently at the top of the page.
+- A number of parse errors appeared when running my code through a CSS validator. By moving the import function before the first media queries, I **resolved** these parse errors. 
 
 ## 9. Credits
 <a name="credits"></a>
@@ -297,7 +303,7 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 - The responsive navigation bar came from [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 - The responsive iframes came from [W3 Schools](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
 - Fonts came from [Google Fonts](https://fonts.google.com/)
-- Icons in the footer came from [https://fontawesome.com/](https://fontawesome.com/)
+- Icons in the footer came from [Font Awesome](https://fontawesome.com/)
 
 #### Content
 
