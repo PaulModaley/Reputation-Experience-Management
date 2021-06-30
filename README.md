@@ -276,8 +276,11 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 
 [Back to top](#table-of-contents)
 
-- On desktop view in particular, the YouTube videos appear somewhat larger than would be ideal.
-- Form inputs were not aligned. This has been remedied by adding a width of 100px to the CSS input 'label'.
+- On desktop view, the YouTube videos appear somewhat larger than would be ideal. This issue remains **unresolved**, however, this is not a significant issue because the larger videos does not diminish the overall user experience. 
+- Form inputs were not aligned. This has been remedied by adding a width of 100px to the CSS input 'label'. This issue has been **resolved**.
+- The div containing the demo button was showing in a contrasting colour which appeared unsightly. This was **resolved** by setting the colour to transparent.
+- Using background-image in CSS for the site logo was unreliable and the logo disappeared unexpectedly at times. By using the img element in HTML as opposed to background-image in CSS, the issue was **resolved** and the logo now appears consistently at the top of the page.
+- A number of parse errors appeared when running my code through a CSS validator. By moving the import function before the first media queries, I **resolved** these parse errors. 
 
 ## 9. Credits
 <a name="credits"></a>
