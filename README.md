@@ -191,6 +191,8 @@ Error identification and HTML validation was conducted using [W3C Markup](https:
 
 #### **Testing Process**
 
+Generally, I followed a process of (1) writing the code for a specific feature, (2) testing it, and then (3) committing it to GitHub. 
+
 All sections of the page were tested thoroughly for mobile and web responsivity.
 
 - **Navigation bar - Expectation: Pass**
@@ -290,26 +292,16 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 
 ## 9. Credits
 <a name="credits"></a>
+#### Code
 - The angled div came from [Suman Biswas at Codepen](https://codepen.io/biswassuman/pen/NWGqKwd)
 - The transparent text box over the hero image in mobile view came from [Rob Doyle Creative](https://robdoylecreative.com/how-to-add-a-transparent-text-box-over-an-image-using-css/)
 - The bar graph in the 'Get Chosen' section came from [W3 Schools](https://www.w3schools.com/howto/howto_css_skill_bar.asp)
 - The responsive navigation bar came from [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 - The responsive iframes came from [W3 Schools](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
+- The Demo button animation came from [W3 Schools](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
 - Fonts came from [Google Fonts](https://fonts.google.com/)
 - Icons in the footer came from [Font Awesome](https://fontawesome.com/)
 - Code for hover effect on demo button came from [W3 Schools](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
-
-[Back to top](#table-of-contents)
-
-#### Code
-
-- The angled div came from [Suman Biswas at Codepen](https://codepen.io/biswassuman/pen/NWGqKwd)
-- The transparent text box over the hero image in mobile view came from [Rob Doyle Creative](https://robdoylecreative.com/how-to-add-a-transparent-text-box-over-an-image-using-css/)
-- The bar graph in the 'Get Chosen' section came from [W3 Schools](https://www.w3schools.com/howto/howto_css_skill_bar.asp)
-- The responsive navigation bar came from [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
-- The responsive iframes came from [W3 Schools](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
-- Fonts came from [Google Fonts](https://fonts.google.com/)
-- Icons in the footer came from [Font Awesome](https://fontawesome.com/)
 
 #### Content
 
@@ -318,3 +310,5 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 - Videos came from [Reputation's YouTube channel](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg)
 - Logo image came from Reputation
 - Branding and colour scheme came from Reputation
+
+[Back to top](#table-of-contents)
