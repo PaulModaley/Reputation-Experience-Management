@@ -85,7 +85,7 @@ The content must:
 <a name="structure"></a>
 #### Structure
 
-The site will feature distinct sections on a single page. Users may navigate between the sections via the main navigation situated at the top of the page (right hand side in desktop mode). Users may return to the top of the page via the 'back to top' link found at the bottom of each section.
+The site will feature distinct sections - *header/intro section*, *Get Found*, *Get Chosen*, *Get Better*, *Get Chosen*, *The Power of an RXM Platform/demo request section* -constituting a single page design. Users may navigate between the sections via the main navigation situated at the top of the page (right hand side in desktop mode). Users may return to the top of the page via the 'back to top' link found at the bottom of each section.
 
 - Responsive on all devices sizes.
 - Navigation bar changes to a 'hamburger' style menu (top centre of screen) on smaller screens
@@ -240,7 +240,7 @@ I deployed my project through GitHub. The process was as follows:
 
 ## 7. End Product
 <a name="endproduct"></a>
-***
+
 **Header section with 'Get Found' section partially visible**
 ![image](https://user-images.githubusercontent.com/83225842/123790421-36dd3600-d8d6-11eb-92e9-01525d7566c5.png)
 ***
