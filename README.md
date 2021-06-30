@@ -300,7 +300,7 @@ The site may be viewed via this link: https://paulmodaley.github.io/Reputation-E
 - The responsive navigation bar came from [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
 - The responsive iframes came from [W3 Schools](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
 - Fonts came from [Google Fonts](https://fonts.google.com/)
-- Icons in the footer came from [https://fontawesome.com/](https://fontawesome.com/)
+- Icons in the footer came from [Font Awesome](https://fontawesome.com/)
 
 #### Content
 
