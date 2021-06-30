@@ -164,6 +164,7 @@ Technologies employed in the creation of the website are as follows:
 - [Typora](https://typora.io/) (for creating this readme file)
 - [W3C Validator tools](https://validator.w3.org/) (for validating code and error checking)
 - [Am I Responsive?](http://ami.responsivedesign.is/) (for checking responsivity and screenshots of site functioning on different devices)
+- [ImgBB](https://imgbb.com/) (for image hosting of the logo)
 <a name="testing"></a>
 ### 4. Testing
 
