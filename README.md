@@ -191,6 +191,8 @@ Error identification and HTML validation was conducted using [W3C Markup](https:
 
 #### **Testing Process**
 
+Generally, I followed a process of (1) writing the code for a specific feature, (2) testing it, and then (3) committing it to GitHub. 
+
 All sections of the page were tested thoroughly for mobile and web responsivity.
 
 - **Navigation bar - Expectation: Pass**
