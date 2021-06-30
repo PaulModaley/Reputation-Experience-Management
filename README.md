@@ -181,7 +181,13 @@ To ensure mobile responsivity, I made extensive use of Google Developer Tool's '
 
 **W3C Validator Tools**
 
-Error identification and HTML validation was conducted using [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) while [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) enabled me to identify errors within my project's CSS.
+Error identification and HTML validation was conducted using [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) while [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) enabled me to identify errors within my project's CSS. The screenshots below confirm that no errors were detected in HTML or CSS.
+
+![image](https://user-images.githubusercontent.com/83225842/123955608-b8e66100-d9a1-11eb-9db5-04c2f46b653f.png)
+![image](https://user-images.githubusercontent.com/83225842/123955690-ca2f6d80-d9a1-11eb-9581-94b5e8cb6b50.png)
+
+
+
 
 #### **Testing Process**
 
