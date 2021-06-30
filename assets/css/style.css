@@ -15,7 +15,7 @@
         position: relative;
         min-height: 100vh;
     }
-    /*navigation menu*/
+    /*navigation menu* Code adapted from W3C*/
 .sticky {
     position: fixed;
     width: 100%;
@@ -108,6 +108,7 @@
         display: inline-flex;
         box-shadow: 1px 1px #eaff59;
     }
+    /*Transparent box code adapted from Rob Doyle Creative*/
     @media only screen and (max-width: 290px) {
         .intro-text {
             color:#efefef;
@@ -202,6 +203,7 @@
         width: 100%;
         height: 600px;
     }
+    /*Graph code adapted from W3C*/
     * {box-sizing: border-box}
     .graph > p {
         font-size: small;
@@ -488,7 +490,7 @@ input[type=submit] {
         height: 120%;
         background: #fff;
       }
-      
+      /*Angled div clip path code adapted from Suman Biswas at Codepen*/
       .div2{
         width: 50%;
         height: 120%;
@@ -546,6 +548,7 @@ input[type=submit] {
         background-color: #004f5d;
     }
 }
+/*responsive iframes code adapted from W3C*/
 #get-found-wrapper {
     background-position: center;
     background-repeat: no-repeat;
@@ -673,6 +676,7 @@ input[type=submit] {
     padding-bottom: 40px;
     padding-top: 10px;
 }
+/*responsive iframes code adapted from W3C*/
     #platformvideo {
         position: relative;
         overflow: hidden;
@@ -758,6 +762,7 @@ position: relative;
     justify-content: center;
     display: flex;
 }
+/*demo button animation code adapted from W3C*/
 #demobtn  {
         padding: 50px;
         background-color: transparent;
