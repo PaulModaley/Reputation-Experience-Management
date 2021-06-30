@@ -260,7 +260,7 @@ I deployed my project through GitHub. The process was as follows:
 ![image](https://user-images.githubusercontent.com/83225842/123790634-7572f080-d8d6-11eb-8aca-c02944497bd3.png)
 ***
 **Screenshot of website operating on various devices**
-![image](https://user-images.githubusercontent.com/83225842/123851584-475fd180-d913-11eb-90ab-be8509847cc4.png)
+![image](https://user-images.githubusercontent.com/83225842/123940119-c3e4c580-d990-11eb-8a4c-1da02e77696d.png)
 
 
 
